@@ -1,0 +1,427 @@
+{
+  "data": {
+    "nomor": 77,
+    "nama": "المرسلٰت",
+    "namaLatin": "Al-Mursalat",
+    "jumlahAyat": 50,
+    "tempatTurun": "Mekah",
+    "arti": "Malaikat Yang Diutus",
+    "audioFull": {
+      "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/077.mp3"
+    },
+    "ayat": [
+      {
+        "nomorAyat": 1,
+        "teksArab": "وَالْمُرْسَلٰتِ عُرْفًاۙ",
+        "teksIndonesia": "Demi (malaikat-malaikat) yang diutus untuk membawa kebaikan,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077001.mp3"
+        }
+      },
+      {
+        "nomorAyat": 2,
+        "teksArab": "فَالْعٰصِفٰتِ عَصْفًاۙ",
+        "teksIndonesia": "dan (malaikat-malaikat) yang terbang dengan kencangnya,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077002.mp3"
+        }
+      },
+      {
+        "nomorAyat": 3,
+        "teksArab": "وَّالنّٰشِرٰتِ نَشْرًاۙ",
+        "teksIndonesia": "dan (malaikat-malaikat) yang menyebarkan (rahmat Allah) dengan seluas-luasnya,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077003.mp3"
+        }
+      },
+      {
+        "nomorAyat": 4,
+        "teksArab": "فَالْفٰرِقٰتِ فَرْقًاۙ",
+        "teksIndonesia": "dan (malaikat-malaikat) yang membedakan (antara yang baik dan yang buruk) dengan sejelas-jelasnya,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077004.mp3"
+        }
+      },
+      {
+        "nomorAyat": 5,
+        "teksArab": "فَالْمُلْقِيٰتِ ذِكْرًاۙ",
+        "teksIndonesia": "dan (malaikat-malaikat) yang menyampaikan wahyu,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077005.mp3"
+        }
+      },
+      {
+        "nomorAyat": 6,
+        "teksArab": "عُذْرًا اَوْ نُذْرًاۙ",
+        "teksIndonesia": "untuk menolak alasan-alasan atau memberi peringatan.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077006.mp3"
+        }
+      },
+      {
+        "nomorAyat": 7,
+        "teksArab": "اِنَّمَا تُوْعَدُوْنَ لَوَاقِعٌۗ",
+        "teksIndonesia": "Sungguh, apa yang dijanjikan kepadamu pasti terjadi.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077007.mp3"
+        }
+      },
+      {
+        "nomorAyat": 8,
+        "teksArab": "فَاِذَا النُّجُوْمُ طُمِسَتْۙ",
+        "teksIndonesia": "Maka apabila bintang-bintang dihapuskan,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077008.mp3"
+        }
+      },
+      {
+        "nomorAyat": 9,
+        "teksArab": "وَاِذَا السَّمَاۤءُ فُرِجَتْۙ",
+        "teksIndonesia": "dan apabila langit terbelah,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077009.mp3"
+        }
+      },
+      {
+        "nomorAyat": 10,
+        "teksArab": "وَاِذَا الْجِبَالُ نُسِفَتْۙ",
+        "teksIndonesia": "dan apabila gunung-gunung dihancurkan menjadi debu,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077010.mp3"
+        }
+      },
+      {
+        "nomorAyat": 11,
+        "teksArab": "وَاِذَا الرُّسُلُ اُقِّتَتْۗ",
+        "teksIndonesia": "dan apabila rasul-rasul telah ditetapkan waktunya.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077011.mp3"
+        }
+      },
+      {
+        "nomorAyat": 12,
+        "teksArab": "لِاَيِّ يَوْمٍ اُجِّلَتْۗ",
+        "teksIndonesia": "(Niscaya dikatakan kepada mereka), “Sampai hari apakah ditangguhkan (azab orang-orang kafir itu)?”",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077012.mp3"
+        }
+      },
+      {
+        "nomorAyat": 13,
+        "teksArab": "لِيَوْمِ الْفَصْلِۚ",
+        "teksIndonesia": "Sampai hari keputusan.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077013.mp3"
+        }
+      },
+      {
+        "nomorAyat": 14,
+        "teksArab": "وَمَآ اَدْرٰىكَ مَا يَوْمُ الْفَصْلِۗ",
+        "teksIndonesia": "Dan tahukah kamu apakah hari ke-putusan itu?",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077014.mp3"
+        }
+      },
+      {
+        "nomorAyat": 15,
+        "teksArab": "وَيْلٌ يَّوْمَىِٕذٍ لِّلْمُكَذِّبِيْنَ ",
+        "teksIndonesia": "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran).",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077015.mp3"
+        }
+      },
+      {
+        "nomorAyat": 16,
+        "teksArab": "اَلَمْ نُهْلِكِ الْاَوَّلِيْنَۗ",
+        "teksIndonesia": "Bukankah telah Kami binasakan orang-orang yang dahulu?",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077016.mp3"
+        }
+      },
+      {
+        "nomorAyat": 17,
+        "teksArab": "ثُمَّ نُتْبِعُهُمُ الْاٰخِرِيْنَ ",
+        "teksIndonesia": "Lalu Kami susulkan (azab Kami terhadap) orang-orang yang datang kemudian.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077017.mp3"
+        }
+      },
+      {
+        "nomorAyat": 18,
+        "teksArab": "كَذٰلِكَ نَفْعَلُ بِالْمُجْرِمِيْنَ ",
+        "teksIndonesia": "Demikianlah Kami perlakukan orang-orang yang berdosa.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077018.mp3"
+        }
+      },
+      {
+        "nomorAyat": 19,
+        "teksArab": "وَيْلٌ يَّوْمَىِٕذٍ لِّلْمُكَذِّبِيْنَ ",
+        "teksIndonesia": "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran).",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077019.mp3"
+        }
+      },
+      {
+        "nomorAyat": 20,
+        "teksArab": "اَلَمْ نَخْلُقْكُّمْ مِّنْ مَّاۤءٍ مَّهِيْنٍۙ",
+        "teksIndonesia": "Bukankah Kami menciptakan kamu dari air yang hina (mani),",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077020.mp3"
+        }
+      },
+      {
+        "nomorAyat": 21,
+        "teksArab": "فَجَعَلْنٰهُ فِيْ قَرَارٍ مَّكِيْنٍ",
+        "teksIndonesia": "kemudian Kami letakkan ia dalam tempat yang kokoh (rahim),",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077021.mp3"
+        }
+      },
+      {
+        "nomorAyat": 22,
+        "teksArab": "اِلٰى قَدَرٍ مَّعْلُوْمٍۙ",
+        "teksIndonesia": "sampai waktu yang ditentukan,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077022.mp3"
+        }
+      },
+      {
+        "nomorAyat": 23,
+        "teksArab": "فَقَدَرْنَاۖ فَنِعْمَ الْقٰدِرُوْنَ ",
+        "teksIndonesia": "lalu Kami tentukan (bentuknya), maka (Kamilah) sebaik-baik yang menentukan.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077023.mp3"
+        }
+      },
+      {
+        "nomorAyat": 24,
+        "teksArab": "وَيْلٌ يَّوْمَىِٕذٍ لِّلْمُكَذِّبِيْنَ ",
+        "teksIndonesia": "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran).",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077024.mp3"
+        }
+      },
+      {
+        "nomorAyat": 25,
+        "teksArab": "اَلَمْ نَجْعَلِ الْاَرْضَ كِفَاتًاۙ",
+        "teksIndonesia": "Bukankah Kami jadikan bumi untuk (tempat) berkumpul,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077025.mp3"
+        }
+      },
+      {
+        "nomorAyat": 26,
+        "teksArab": "اَحْيَاۤءً وَّاَمْوَاتًاۙ",
+        "teksIndonesia": "bagi yang masih hidup dan yang sudah mati?",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077026.mp3"
+        }
+      },
+      {
+        "nomorAyat": 27,
+        "teksArab": "وَّجَعَلْنَا فِيْهَا رَوَاسِيَ شٰمِخٰتٍ وَّاَسْقَيْنٰكُمْ مَّاۤءً فُرَاتًاۗ",
+        "teksIndonesia": "Dan Kami jadikan padanya gunung-gunung yang tinggi, dan Kami beri minum kamu dengan air tawar?",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077027.mp3"
+        }
+      },
+      {
+        "nomorAyat": 28,
+        "teksArab": "وَيْلٌ يَّوْمَىِٕذٍ لِّلْمُكَذِّبِيْنَ ",
+        "teksIndonesia": "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran).",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077028.mp3"
+        }
+      },
+      {
+        "nomorAyat": 29,
+        "teksArab": "اِنْطَلِقُوْٓا اِلٰى مَا كُنْتُمْ بِهٖ تُكَذِّبُوْنَۚ",
+        "teksIndonesia": "(Akan dikatakan), “Pergilah kamu mendapatkan apa (azab) yang dahulu kamu dustakan.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077029.mp3"
+        }
+      },
+      {
+        "nomorAyat": 30,
+        "teksArab": "اِنْطَلِقُوْٓا اِلٰى ظِلٍّ ذِيْ ثَلٰثِ شُعَبٍ ",
+        "teksIndonesia": "Pergilah kamu mendapatkan naungan (asap api neraka) yang mempunyai tiga cabang, ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077030.mp3"
+        }
+      },
+      {
+        "nomorAyat": 31,
+        "teksArab": "لَا ظَلِيْلٍ وَّلَا يُغْنِيْ مِنَ اللَّهَبِۗ",
+        "teksIndonesia": "yang tidak melindungi dan tidak pula menolak nyala api neraka.” ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077031.mp3"
+        }
+      },
+      {
+        "nomorAyat": 32,
+        "teksArab": "اِنَّهَا تَرْمِيْ بِشَرَرٍ كَالْقَصْرِۚ",
+        "teksIndonesia": "Sungguh, (neraka) itu menyemburkan bunga api (sebesar dan setinggi) istana, ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077032.mp3"
+        }
+      },
+      {
+        "nomorAyat": 33,
+        "teksArab": "كَاَنَّهٗ جِمٰلَتٌ صُفْرٌۗ",
+        "teksIndonesia": "seakan-akan iring-iringan unta yang kuning.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077033.mp3"
+        }
+      },
+      {
+        "nomorAyat": 34,
+        "teksArab": "وَيْلٌ يَّوْمَىِٕذٍ لِّلْمُكَذِّبِيْنَ ",
+        "teksIndonesia": "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran). ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077034.mp3"
+        }
+      },
+      {
+        "nomorAyat": 35,
+        "teksArab": "هٰذَا يَوْمُ لَا يَنْطِقُوْنَۙ",
+        "teksIndonesia": "Inilah hari, saat mereka tidak dapat berbicara, ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077035.mp3"
+        }
+      },
+      {
+        "nomorAyat": 36,
+        "teksArab": "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُوْنَ ",
+        "teksIndonesia": "dan tidak diizinkan kepada mereka mengemukakan alasan agar mereka dimaafkan. ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077036.mp3"
+        }
+      },
+      {
+        "nomorAyat": 37,
+        "teksArab": "وَيْلٌ يَّوْمَىِٕذٍ لِّلْمُكَذِّبِيْنَ ",
+        "teksIndonesia": "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran). ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077037.mp3"
+        }
+      },
+      {
+        "nomorAyat": 38,
+        "teksArab": "هٰذَا يَوْمُ الْفَصْلِ جَمَعْنٰكُمْ وَالْاَوَّلِيْنَ ",
+        "teksIndonesia": "Inilah hari keputusan; (pada hari ini) Kami kumpulkan kamu dan orang-orang yang terdahulu. ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077038.mp3"
+        }
+      },
+      {
+        "nomorAyat": 39,
+        "teksArab": "فَاِنْ كَانَ لَكُمْ كَيْدٌ فَكِيْدُوْنِ ",
+        "teksIndonesia": "Maka jika kamu punya tipu daya, maka lakukanlah (tipu daya) itu terhadap-Ku. ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077039.mp3"
+        }
+      },
+      {
+        "nomorAyat": 40,
+        "teksArab": "وَيْلٌ يَّوْمَىِٕذٍ لِّلْمُكَذِّبِيْنَ ࣖ ",
+        "teksIndonesia": "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran).",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077040.mp3"
+        }
+      },
+      {
+        "nomorAyat": 41,
+        "teksArab": "اِنَّ الْمُتَّقِيْنَ فِيْ ظِلٰلٍ وَّعُيُوْنٍۙ",
+        "teksIndonesia": "Sungguh, orang-orang yang bertakwa berada dalam naungan (pepohonan surga yang teduh) dan (di sekitar) mata air, ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077041.mp3"
+        }
+      },
+      {
+        "nomorAyat": 42,
+        "teksArab": "وَّفَوَاكِهَ مِمَّا يَشْتَهُوْنَۗ",
+        "teksIndonesia": "dan buah-buahan yang mereka sukai. ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077042.mp3"
+        }
+      },
+      {
+        "nomorAyat": 43,
+        "teksArab": "كُلُوْا وَاشْرَبُوْا هَنِيْۤـًٔا ۢبِمَا كُنْتُمْ تَعْمَلُوْنَ ",
+        "teksIndonesia": "(Katakan kepada mereka), “Makan dan minumlah dengan rasa nikmat sebagai balasan dari apa yang telah kamu kerjakan.” ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077043.mp3"
+        }
+      },
+      {
+        "nomorAyat": 44,
+        "teksArab": "اِنَّا كَذٰلِكَ نَجْزِى الْمُحْسِنِيْنَ ",
+        "teksIndonesia": "Sungguh, demikianlah Kami memberi balasan kepada orang-orang yang berbuat baik. ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077044.mp3"
+        }
+      },
+      {
+        "nomorAyat": 45,
+        "teksArab": "وَيْلٌ يَّوْمَىِٕذٍ لِّلْمُكَذِّبِيْنَ ",
+        "teksIndonesia": "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran). ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077045.mp3"
+        }
+      },
+      {
+        "nomorAyat": 46,
+        "teksArab": "كُلُوْا وَتَمَتَّعُوْا قَلِيْلًا اِنَّكُمْ مُّجْرِمُوْنَ ",
+        "teksIndonesia": "(Katakan kepada orang-orang kafir), “Makan dan bersenang-senanglah kamu (di dunia) sebentar, sesungguhnya kamu orang-orang durhaka!”",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077046.mp3"
+        }
+      },
+      {
+        "nomorAyat": 47,
+        "teksArab": "وَيْلٌ يَّوْمَىِٕذٍ لِّلْمُكَذِّبِيْنَ ",
+        "teksIndonesia": "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran). ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077047.mp3"
+        }
+      },
+      {
+        "nomorAyat": 48,
+        "teksArab": "وَاِذَا قِيْلَ لَهُمُ ارْكَعُوْا لَا يَرْكَعُوْنَ ",
+        "teksIndonesia": "Dan apabila dikatakan kepada mereka, “Rukuklah,” mereka tidak mau rukuk.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077048.mp3"
+        }
+      },
+      {
+        "nomorAyat": 49,
+        "teksArab": "وَيْلٌ يَّوْمَىِٕذٍ لِّلْمُكَذِّبِيْنَ ",
+        "teksIndonesia": "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran)! ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077049.mp3"
+        }
+      },
+      {
+        "nomorAyat": 50,
+        "teksArab": "فَبِاَيِّ حَدِيْثٍۢ بَعْدَهٗ يُؤْمِنُوْنَ ࣖ   ۔",
+        "teksIndonesia": "Maka kepada ajaran manakah (selain Al-Qur'an) ini mereka akan beriman?",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/077050.mp3"
+        }
+      }
+    ],
+    "suratSelanjutnya": {
+      "nomor": 78,
+      "nama": "النبأ",
+      "namaLatin": "An-Naba'",
+      "jumlahAyat": 40
+    },
+    "suratSebelumnya": {
+      "nomor": 76,
+      "nama": "الانسان",
+      "namaLatin": "Al-Insan",
+      "jumlahAyat": 31
+    }
+  }
+}

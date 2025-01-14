@@ -1,0 +1,51 @@
+{
+  "data": {
+    "nomor": 108,
+    "nama": "الكوثر",
+    "namaLatin": "Al-Kausar",
+    "jumlahAyat": 3,
+    "tempatTurun": "Mekah",
+    "arti": "Pemberian Yang Banyak",
+    "audioFull": {
+      "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/108.mp3"
+    },
+    "ayat": [
+      {
+        "nomorAyat": 1,
+        "teksArab": "اِنَّآ اَعْطَيْنٰكَ الْكَوْثَرَۗ",
+        "teksIndonesia": "Sungguh, Kami telah memberimu (Muhammad) nikmat yang banyak.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/108001.mp3"
+        }
+      },
+      {
+        "nomorAyat": 2,
+        "teksArab": "فَصَلِّ لِرَبِّكَ وَانْحَرْۗ",
+        "teksIndonesia": "Maka laksanakanlah salat karena Tuhanmu, dan berkurbanlah (sebagai ibadah dan mendekatkan diri kepada Allah).",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/108002.mp3"
+        }
+      },
+      {
+        "nomorAyat": 3,
+        "teksArab": "اِنَّ شَانِئَكَ هُوَ الْاَبْتَرُ ࣖ",
+        "teksIndonesia": "Sungguh, orang-orang yang membencimu dialah yang terputus (dari rahmat Allah).",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/108003.mp3"
+        }
+      }
+    ],
+    "suratSelanjutnya": {
+      "nomor": 109,
+      "nama": "الكٰفرون",
+      "namaLatin": "Al-Kafirun",
+      "jumlahAyat": 6
+    },
+    "suratSebelumnya": {
+      "nomor": 107,
+      "nama": "الماعون",
+      "namaLatin": "Al-Ma'un",
+      "jumlahAyat": 7
+    }
+  }
+}

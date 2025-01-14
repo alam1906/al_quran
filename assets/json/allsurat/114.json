@@ -1,0 +1,70 @@
+{
+  "data": {
+    "nomor": 114,
+    "nama": "الناس",
+    "namaLatin": "An-Nas",
+    "jumlahAyat": 6,
+    "tempatTurun": "Mekah",
+    "arti": "Manusia",
+    "audioFull": {
+      "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/114.mp3"
+    },
+    "ayat": [
+      {
+        "nomorAyat": 1,
+        "teksArab": "قُلْ اَعُوْذُ بِرَبِّ النَّاسِۙ",
+        "teksIndonesia": "Katakanlah, “Aku berlindung kepada Tuhannya manusia,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/114001.mp3"
+        }
+      },
+      {
+        "nomorAyat": 2,
+        "teksArab": "مَلِكِ النَّاسِۙ",
+        "teksIndonesia": "Raja manusia,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/114002.mp3"
+        }
+      },
+      {
+        "nomorAyat": 3,
+        "teksArab": "اِلٰهِ النَّاسِۙ",
+        "teksIndonesia": "sembahan manusia,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/114003.mp3"
+        }
+      },
+      {
+        "nomorAyat": 4,
+        "teksArab": "مِنْ شَرِّ الْوَسْوَاسِ ەۙ الْخَنَّاسِۖ",
+        "teksIndonesia": "dari kejahatan (bisikan) setan yang bersembunyi,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/114004.mp3"
+        }
+      },
+      {
+        "nomorAyat": 5,
+        "teksArab": "الَّذِيْ يُوَسْوِسُ فِيْ صُدُوْرِ النَّاسِۙ",
+        "teksIndonesia": "yang membisikkan (kejahatan) ke dalam dada manusia,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/114005.mp3"
+        }
+      },
+      {
+        "nomorAyat": 6,
+        "teksArab": "مِنَ الْجِنَّةِ وَالنَّاسِ ࣖ ",
+        "teksIndonesia": "dari (golongan) jin dan manusia.”",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/114006.mp3"
+        }
+      }
+    ],
+    "suratSelanjutnya": false,
+    "suratSebelumnya": {
+      "nomor": 113,
+      "nama": "الفلق",
+      "namaLatin": "Al-Falaq",
+      "jumlahAyat": 5
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "data": {
+    "nomor": 100,
+    "nama": "العٰديٰت",
+    "namaLatin": "Al-'Adiyat",
+    "jumlahAyat": 11,
+    "tempatTurun": "Mekah",
+    "arti": "Kuda Yang Berlari Kencang",
+    "audioFull": {
+      "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/100.mp3"
+    },
+    "ayat": [
+      {
+        "nomorAyat": 1,
+        "teksArab": "وَالْعٰدِيٰتِ ضَبْحًاۙ ",
+        "teksIndonesia": "Demi kuda perang yang berlari kencang terengah-engah,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/100001.mp3"
+        }
+      },
+      {
+        "nomorAyat": 2,
+        "teksArab": "فَالْمُوْرِيٰتِ قَدْحًاۙ",
+        "teksIndonesia": "dan kuda yang memercikkan bunga api (dengan pukulan kuku kakinya),",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/100002.mp3"
+        }
+      },
+      {
+        "nomorAyat": 3,
+        "teksArab": "فَالْمُغِيْرٰتِ صُبْحًاۙ",
+        "teksIndonesia": "dan kuda yang menyerang (dengan tiba-tiba) pada waktu pagi,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/100003.mp3"
+        }
+      },
+      {
+        "nomorAyat": 4,
+        "teksArab": "فَاَثَرْنَ بِهٖ نَقْعًاۙ",
+        "teksIndonesia": "sehingga menerbangkan debu,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/100004.mp3"
+        }
+      },
+      {
+        "nomorAyat": 5,
+        "teksArab": "فَوَسَطْنَ بِهٖ جَمْعًاۙ",
+        "teksIndonesia": "lalu menyerbu ke tengah-tengah kumpulan musuh,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/100005.mp3"
+        }
+      },
+      {
+        "nomorAyat": 6,
+        "teksArab": "اِنَّ الْاِنْسَانَ لِرَبِّهٖ لَكَنُوْدٌ ۚ",
+        "teksIndonesia": "sungguh, manusia itu sangat ingkar, (tidak bersyukur) kepada Tuhannya,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/100006.mp3"
+        }
+      },
+      {
+        "nomorAyat": 7,
+        "teksArab": "وَاِنَّهٗ عَلٰى ذٰلِكَ لَشَهِيْدٌۚ",
+        "teksIndonesia": "dan sesungguhnya dia (manusia) menyaksikan (mengakui) keingkarannya,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/100007.mp3"
+        }
+      },
+      {
+        "nomorAyat": 8,
+        "teksArab": "وَاِنَّهٗ لِحُبِّ الْخَيْرِ لَشَدِيْدٌ ۗ",
+        "teksIndonesia": "dan sesungguhnya cintanya kepada harta benar-benar berlebihan.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/100008.mp3"
+        }
+      },
+      {
+        "nomorAyat": 9,
+        "teksArab": "۞ اَفَلَا يَعْلَمُ اِذَا بُعْثِرَ مَا فِى الْقُبُوْرِۙ",
+        "teksIndonesia": "Maka tidakkah dia mengetahui apabila apa yang di dalam kubur dikeluarkan,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/100009.mp3"
+        }
+      },
+      {
+        "nomorAyat": 10,
+        "teksArab": "وَحُصِّلَ مَا فِى الصُّدُوْرِۙ",
+        "teksIndonesia": "dan apa yang tersimpan di dalam dada dilahirkan?",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/100010.mp3"
+        }
+      },
+      {
+        "nomorAyat": 11,
+        "teksArab": "اِنَّ رَبَّهُمْ بِهِمْ يَوْمَىِٕذٍ لَّخَبِيْرٌ ࣖ",
+        "teksIndonesia": "sungguh, Tuhan mereka pada hari itu Mahateliti terhadap keadaan mereka.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/100011.mp3"
+        }
+      }
+    ],
+    "suratSelanjutnya": {
+      "nomor": 101,
+      "nama": "القارعة",
+      "namaLatin": "Al-Qari'ah",
+      "jumlahAyat": 11
+    },
+    "suratSebelumnya": {
+      "nomor": 99,
+      "nama": "الزلزلة",
+      "namaLatin": "Az-Zalzalah",
+      "jumlahAyat": 8
+    }
+  }
+}

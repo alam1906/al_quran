@@ -1,0 +1,259 @@
+{
+  "data": {
+    "nomor": 81,
+    "nama": "التكوير",
+    "namaLatin": "At-Takwir",
+    "jumlahAyat": 29,
+    "tempatTurun": "Mekah",
+    "arti": "Penggulungan",
+    "audioFull": {
+      "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/081.mp3"
+    },
+    "ayat": [
+      {
+        "nomorAyat": 1,
+        "teksArab": "اِذَا الشَّمْسُ كُوِّرَتْۖ",
+        "teksIndonesia": "Apabila matahari digulung,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/081001.mp3"
+        }
+      },
+      {
+        "nomorAyat": 2,
+        "teksArab": "وَاِذَا النُّجُوْمُ انْكَدَرَتْۖ",
+        "teksIndonesia": "dan apabila bintang-bintang berjatuhan,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/081002.mp3"
+        }
+      },
+      {
+        "nomorAyat": 3,
+        "teksArab": "وَاِذَا الْجِبَالُ سُيِّرَتْۖ",
+        "teksIndonesia": "dan apabila gunung-gunung dihancurkan,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/081003.mp3"
+        }
+      },
+      {
+        "nomorAyat": 4,
+        "teksArab": "وَاِذَا الْعِشَارُ عُطِّلَتْۖ",
+        "teksIndonesia": "dan apabila unta-unta yang bunting ditinggalkan (tidak terurus),",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/081004.mp3"
+        }
+      },
+      {
+        "nomorAyat": 5,
+        "teksArab": "وَاِذَا الْوُحُوْشُ حُشِرَتْۖ",
+        "teksIndonesia": "dan apabila binatang-binatang liar dikumpulkan,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/081005.mp3"
+        }
+      },
+      {
+        "nomorAyat": 6,
+        "teksArab": "وَاِذَا الْبِحَارُ سُجِّرَتْۖ",
+        "teksIndonesia": "dan apabila lautan dipanaskan,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/081006.mp3"
+        }
+      },
+      {
+        "nomorAyat": 7,
+        "teksArab": "وَاِذَا النُّفُوْسُ زُوِّجَتْۖ",
+        "teksIndonesia": "dan apabila roh-roh dipertemukan (dengan tubuh), ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/081007.mp3"
+        }
+      },
+      {
+        "nomorAyat": 8,
+        "teksArab": "وَاِذَا الْمَوْءٗدَةُ سُىِٕلَتْۖ ",
+        "teksIndonesia": "dan apabila bayi-bayi perempuan yang dikubur hidup-hidup ditanya, ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/081008.mp3"
+        }
+      },
+      {
+        "nomorAyat": 9,
+        "teksArab": "بِاَيِّ ذَنْۢبٍ قُتِلَتْۚ",
+        "teksIndonesia": "karena dosa apa dia dibunuh? ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/081009.mp3"
+        }
+      },
+      {
+        "nomorAyat": 10,
+        "teksArab": "وَاِذَا الصُّحُفُ نُشِرَتْۖ",
+        "teksIndonesia": "Dan apabila lembaran-lembaran (catatan amal) telah dibuka lebar-lebar, ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/081010.mp3"
+        }
+      },
+      {
+        "nomorAyat": 11,
+        "teksArab": "وَاِذَا السَّمَاۤءُ كُشِطَتْۖ",
+        "teksIndonesia": "dan apabila langit dilenyapkan, ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/081011.mp3"
+        }
+      },
+      {
+        "nomorAyat": 12,
+        "teksArab": "وَاِذَا الْجَحِيْمُ سُعِّرَتْۖ",
+        "teksIndonesia": "dan apabila neraka Jahim dinyalakan, ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/081012.mp3"
+        }
+      },
+      {
+        "nomorAyat": 13,
+        "teksArab": "وَاِذَا الْجَنَّةُ اُزْلِفَتْۖ",
+        "teksIndonesia": "dan apabila surga didekatkan, ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/081013.mp3"
+        }
+      },
+      {
+        "nomorAyat": 14,
+        "teksArab": "عَلِمَتْ نَفْسٌ مَّآ اَحْضَرَتْۗ",
+        "teksIndonesia": "setiap jiwa akan mengetahui apa yang telah dikerjakannya. ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/081014.mp3"
+        }
+      },
+      {
+        "nomorAyat": 15,
+        "teksArab": "فَلَآ اُقْسِمُ بِالْخُنَّسِۙ",
+        "teksIndonesia": "Aku bersumpah demi bintang-bintang,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/081015.mp3"
+        }
+      },
+      {
+        "nomorAyat": 16,
+        "teksArab": "الْجَوَارِ الْكُنَّسِۙ",
+        "teksIndonesia": "yang beredar dan terbenam, ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/081016.mp3"
+        }
+      },
+      {
+        "nomorAyat": 17,
+        "teksArab": "وَالَّيْلِ اِذَا عَسْعَسَۙ",
+        "teksIndonesia": "demi malam apabila telah larut, ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/081017.mp3"
+        }
+      },
+      {
+        "nomorAyat": 18,
+        "teksArab": "وَالصُّبْحِ اِذَا تَنَفَّسَۙ",
+        "teksIndonesia": "dan demi subuh apabila fajar telah menyingsing, ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/081018.mp3"
+        }
+      },
+      {
+        "nomorAyat": 19,
+        "teksArab": "اِنَّهٗ لَقَوْلُ رَسُوْلٍ كَرِيْمٍۙ",
+        "teksIndonesia": "sesungguhnya (Al-Qur'an) itu benar-benar firman (Allah yang dibawa oleh) utusan yang mulia (Jibril),",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/081019.mp3"
+        }
+      },
+      {
+        "nomorAyat": 20,
+        "teksArab": "ذِيْ قُوَّةٍ عِنْدَ ذِى الْعَرْشِ مَكِيْنٍۙ",
+        "teksIndonesia": "yang memiliki kekuatan, memiliki kedudukan tinggi di sisi (Allah) yang memiliki ‘Arsy,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/081020.mp3"
+        }
+      },
+      {
+        "nomorAyat": 21,
+        "teksArab": "مُّطَاعٍ ثَمَّ اَمِيْنٍۗ",
+        "teksIndonesia": "yang di sana (di alam malaikat) ditaati dan dipercaya.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/081021.mp3"
+        }
+      },
+      {
+        "nomorAyat": 22,
+        "teksArab": "وَمَا صَاحِبُكُمْ بِمَجْنُوْنٍۚ",
+        "teksIndonesia": "Dan temanmu (Muhammad) itu bukanlah orang gila. ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/081022.mp3"
+        }
+      },
+      {
+        "nomorAyat": 23,
+        "teksArab": "وَلَقَدْ رَاٰهُ بِالْاُفُقِ الْمُبِيْنِۚ",
+        "teksIndonesia": "Dan sungguh, dia (Muhammad) telah melihatnya (Jibril) di ufuk yang terang. ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/081023.mp3"
+        }
+      },
+      {
+        "nomorAyat": 24,
+        "teksArab": "وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِيْنٍۚ",
+        "teksIndonesia": "Dan dia (Muhammad) bukanlah seorang yang kikir (enggan) untuk menerangkan yang gaib.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/081024.mp3"
+        }
+      },
+      {
+        "nomorAyat": 25,
+        "teksArab": "وَمَا هُوَ بِقَوْلِ شَيْطٰنٍ رَّجِيْمٍۚ",
+        "teksIndonesia": "Dan (Al-Qur'an) itu bukanlah perkataan setan yang terkutuk,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/081025.mp3"
+        }
+      },
+      {
+        "nomorAyat": 26,
+        "teksArab": "فَاَيْنَ تَذْهَبُوْنَۗ",
+        "teksIndonesia": "maka ke manakah kamu akan pergi?",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/081026.mp3"
+        }
+      },
+      {
+        "nomorAyat": 27,
+        "teksArab": "اِنْ هُوَ اِلَّا ذِكْرٌ لِّلْعٰلَمِيْنَۙ",
+        "teksIndonesia": "(Al-Qur'an) itu tidak lain adalah peringatan bagi seluruh alam, ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/081027.mp3"
+        }
+      },
+      {
+        "nomorAyat": 28,
+        "teksArab": "لِمَنْ شَاۤءَ مِنْكُمْ اَنْ يَّسْتَقِيْمَۗ",
+        "teksIndonesia": "(yaitu) bagi siapa di antara kamu yang menghendaki menempuh jalan yang lurus. ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/081028.mp3"
+        }
+      },
+      {
+        "nomorAyat": 29,
+        "teksArab": "وَمَا تَشَاۤءُوْنَ اِلَّآ اَنْ يَّشَاۤءَ اللّٰهُ رَبُّ الْعٰلَمِيْنَ ࣖ",
+        "teksIndonesia": "Dan kamu tidak dapat menghendaki (menempuh jalan itu) kecuali apabila dikehendaki Allah, Tuhan seluruh alam.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/081029.mp3"
+        }
+      }
+    ],
+    "suratSelanjutnya": {
+      "nomor": 82,
+      "nama": "الانفطار",
+      "namaLatin": "Al-Infitar",
+      "jumlahAyat": 19
+    },
+    "suratSebelumnya": {
+      "nomor": 80,
+      "nama": "عبس",
+      "namaLatin": "'Abasa",
+      "jumlahAyat": 42
+    }
+  }
+}

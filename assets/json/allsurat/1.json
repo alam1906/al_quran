@@ -1,0 +1,78 @@
+{
+  "data": {
+    "nomor": 1,
+    "nama": "الفاتحة",
+    "namaLatin": "Al-Fatihah",
+    "jumlahAyat": 7,
+    "tempatTurun": "Mekah",
+    "arti": "Pembukaan",
+    "audioFull": {
+      "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/001.mp3"
+    },
+    "ayat": [
+      {
+        "nomorAyat": 1,
+        "teksArab": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+        "teksIndonesia": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/001001.mp3"
+        }
+      },
+      {
+        "nomorAyat": 2,
+        "teksArab": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَۙ",
+        "teksIndonesia": "Segala puji bagi Allah, Tuhan seluruh alam,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/001002.mp3"
+        }
+      },
+      {
+        "nomorAyat": 3,
+        "teksArab": "الرَّحْمٰنِ الرَّحِيْمِۙ",
+        "teksIndonesia": "Yang Maha Pengasih, Maha Penyayang,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/001003.mp3"
+        }
+      },
+      {
+        "nomorAyat": 4,
+        "teksArab": "مٰلِكِ يَوْمِ الدِّيْنِۗ",
+        "teksIndonesia": "Pemilik hari pembalasan.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/001004.mp3"
+        }
+      },
+      {
+        "nomorAyat": 5,
+        "teksArab": "اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُۗ",
+        "teksIndonesia": "Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami mohon pertolongan.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/001005.mp3"
+        }
+      },
+      {
+        "nomorAyat": 6,
+        "teksArab": "اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَۙ",
+        "teksIndonesia": "Tunjukilah kami jalan yang lurus,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/001006.mp3"
+        }
+      },
+      {
+        "nomorAyat": 7,
+        "teksArab": "صِرَاطَ الَّذِيْنَ اَنْعَمْتَ عَلَيْهِمْ ەۙ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّاۤلِّيْنَ ࣖ",
+        "teksIndonesia": "(yaitu) jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan (jalan) mereka yang dimurkai, dan bukan (pula jalan) mereka yang sesat.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/001007.mp3"
+        }
+      }
+    ],
+    "suratSelanjutnya": {
+      "nomor": 2,
+      "nama": "البقرة",
+      "namaLatin": "Al-Baqarah",
+      "jumlahAyat": 286
+    },
+    "suratSebelumnya": false
+  }
+}

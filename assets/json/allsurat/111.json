@@ -1,0 +1,67 @@
+{
+  "data": {
+    "nomor": 111,
+    "nama": "اللهب",
+    "namaLatin": "Al-Lahab",
+    "jumlahAyat": 5,
+    "tempatTurun": "Mekah",
+    "arti": "Api Yang Bergejolak",
+    "audioFull": {
+      "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/111.mp3"
+    },
+    "ayat": [
+      {
+        "nomorAyat": 1,
+        "teksArab": "تَبَّتْ يَدَآ اَبِيْ لَهَبٍ وَّتَبَّۗ",
+        "teksIndonesia": "Binasalah kedua tangan Abu Lahab dan benar-benar binasa dia!",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/111001.mp3"
+        }
+      },
+      {
+        "nomorAyat": 2,
+        "teksArab": "مَآ اَغْنٰى عَنْهُ مَالُهٗ وَمَا كَسَبَۗ",
+        "teksIndonesia": "Tidaklah berguna baginya hartanya dan apa yang dia usahakan.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/111002.mp3"
+        }
+      },
+      {
+        "nomorAyat": 3,
+        "teksArab": "سَيَصْلٰى نَارًا ذَاتَ لَهَبٍۙ",
+        "teksIndonesia": "Kelak dia akan masuk ke dalam api yang bergejolak (neraka).",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/111003.mp3"
+        }
+      },
+      {
+        "nomorAyat": 4,
+        "teksArab": "وَّامْرَاَتُهٗ ۗحَمَّالَةَ الْحَطَبِۚ",
+        "teksIndonesia": "Dan (begitu pula) istrinya, pembawa kayu bakar (penyebar fitnah). ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/111004.mp3"
+        }
+      },
+      {
+        "nomorAyat": 5,
+        "teksArab": "فِيْ جِيْدِهَا حَبْلٌ مِّنْ مَّسَدٍ ࣖ",
+        "teksIndonesia": "Di lehernya ada tali dari sabut yang dipintal.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/111005.mp3"
+        }
+      }
+    ],
+    "suratSelanjutnya": {
+      "nomor": 112,
+      "nama": "الاخلاص",
+      "namaLatin": "Al-Ikhlas",
+      "jumlahAyat": 4
+    },
+    "suratSebelumnya": {
+      "nomor": 110,
+      "nama": "النصر",
+      "namaLatin": "An-Nasr",
+      "jumlahAyat": 3
+    }
+  }
+}

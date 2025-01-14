@@ -1,0 +1,59 @@
+{
+  "data": {
+    "nomor": 106,
+    "nama": "قريش",
+    "namaLatin": "Quraisy",
+    "jumlahAyat": 4,
+    "tempatTurun": "Mekah",
+    "arti": "Quraisy",
+    "audioFull": {
+      "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/106.mp3"
+    },
+    "ayat": [
+      {
+        "nomorAyat": 1,
+        "teksArab": "لِاِيْلٰفِ قُرَيْشٍۙ",
+        "teksIndonesia": "Karena kebiasaan orang-orang Quraisy,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/106001.mp3"
+        }
+      },
+      {
+        "nomorAyat": 2,
+        "teksArab": "اٖلٰفِهِمْ رِحْلَةَ الشِّتَاۤءِ وَالصَّيْفِۚ",
+        "teksIndonesia": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/106002.mp3"
+        }
+      },
+      {
+        "nomorAyat": 3,
+        "teksArab": "فَلْيَعْبُدُوْا رَبَّ هٰذَا الْبَيْتِۙ",
+        "teksIndonesia": "Maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (Ka‘bah),",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/106003.mp3"
+        }
+      },
+      {
+        "nomorAyat": 4,
+        "teksArab": "الَّذِيْٓ اَطْعَمَهُمْ مِّنْ جُوْعٍ ەۙ وَّاٰمَنَهُمْ مِّنْ خَوْفٍ ࣖ",
+        "teksIndonesia": "yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari rasa ketakutan.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/106004.mp3"
+        }
+      }
+    ],
+    "suratSelanjutnya": {
+      "nomor": 107,
+      "nama": "الماعون",
+      "namaLatin": "Al-Ma'un",
+      "jumlahAyat": 7
+    },
+    "suratSebelumnya": {
+      "nomor": 105,
+      "nama": "الفيل",
+      "namaLatin": "Al-Fil",
+      "jumlahAyat": 5
+    }
+  }
+}

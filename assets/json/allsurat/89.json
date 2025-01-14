@@ -1,0 +1,267 @@
+{
+  "data": {
+    "nomor": 89,
+    "nama": "الفجر",
+    "namaLatin": "Al-Fajr",
+    "jumlahAyat": 30,
+    "tempatTurun": "Mekah",
+    "arti": "Fajar",
+    "audioFull": {
+      "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/089.mp3"
+    },
+    "ayat": [
+      {
+        "nomorAyat": 1,
+        "teksArab": "وَالْفَجْرِۙ",
+        "teksIndonesia": "Demi fajar,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/089001.mp3"
+        }
+      },
+      {
+        "nomorAyat": 2,
+        "teksArab": "وَلَيَالٍ عَشْرٍۙ",
+        "teksIndonesia": "demi malam yang sepuluh,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/089002.mp3"
+        }
+      },
+      {
+        "nomorAyat": 3,
+        "teksArab": "وَّالشَّفْعِ وَالْوَتْرِۙ",
+        "teksIndonesia": "demi yang genap dan yang ganjil,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/089003.mp3"
+        }
+      },
+      {
+        "nomorAyat": 4,
+        "teksArab": "وَالَّيْلِ اِذَا يَسْرِۚ",
+        "teksIndonesia": "demi malam apabila berlalu.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/089004.mp3"
+        }
+      },
+      {
+        "nomorAyat": 5,
+        "teksArab": "هَلْ فِيْ ذٰلِكَ قَسَمٌ لِّذِيْ حِجْرٍۗ",
+        "teksIndonesia": "Adakah pada yang demikian itu terdapat sumpah (yang dapat diterima) bagi orang-orang yang berakal?",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/089005.mp3"
+        }
+      },
+      {
+        "nomorAyat": 6,
+        "teksArab": "اَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍۖ",
+        "teksIndonesia": "Tidakkah engkau (Muhammad) memperhatikan bagaimana Tuhanmu berbuat terhadap (kaum) ‘Ad?",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/089006.mp3"
+        }
+      },
+      {
+        "nomorAyat": 7,
+        "teksArab": "اِرَمَ ذَاتِ الْعِمَادِۖ",
+        "teksIndonesia": "(yaitu) penduduk Iram (ibukota kaum ‘Ad) yang mempunyai bangunan-bangunan yang tinggi,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/089007.mp3"
+        }
+      },
+      {
+        "nomorAyat": 8,
+        "teksArab": "الَّتِيْ لَمْ يُخْلَقْ مِثْلُهَا فِى الْبِلَادِۖ",
+        "teksIndonesia": "yang belum pernah dibangun (suatu kota) seperti itu di negeri-negeri lain,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/089008.mp3"
+        }
+      },
+      {
+        "nomorAyat": 9,
+        "teksArab": "وَثَمُوْدَ الَّذِيْنَ جَابُوا الصَّخْرَ بِالْوَادِۖ",
+        "teksIndonesia": "dan (terhadap) kaum samud yang memotong batu-batu besar di lembah,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/089009.mp3"
+        }
+      },
+      {
+        "nomorAyat": 10,
+        "teksArab": "وَفِرْعَوْنَ ذِى الْاَوْتَادِۖ",
+        "teksIndonesia": "dan (terhadap) Fir‘aun yang mempunyai pasak-pasak (bangunan yang besar),",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/089010.mp3"
+        }
+      },
+      {
+        "nomorAyat": 11,
+        "teksArab": "الَّذِيْنَ طَغَوْا فِى الْبِلَادِۖ",
+        "teksIndonesia": "yang berbuat sewenang-wenang dalam negeri,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/089011.mp3"
+        }
+      },
+      {
+        "nomorAyat": 12,
+        "teksArab": "فَاَكْثَرُوْا فِيْهَا الْفَسَادَۖ",
+        "teksIndonesia": "lalu mereka banyak berbuat kerusakan dalam negeri itu,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/089012.mp3"
+        }
+      },
+      {
+        "nomorAyat": 13,
+        "teksArab": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍۖ",
+        "teksIndonesia": "karena itu Tuhanmu menimpakan cemeti azab kepada mereka,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/089013.mp3"
+        }
+      },
+      {
+        "nomorAyat": 14,
+        "teksArab": "اِنَّ رَبَّكَ لَبِالْمِرْصَادِۗ",
+        "teksIndonesia": "sungguh, Tuhanmu benar-benar mengawasi.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/089014.mp3"
+        }
+      },
+      {
+        "nomorAyat": 15,
+        "teksArab": "فَاَمَّا الْاِنْسَانُ اِذَا مَا ابْتَلٰىهُ رَبُّهٗ فَاَكْرَمَهٗ وَنَعَّمَهٗۙ فَيَقُوْلُ رَبِّيْٓ اَكْرَمَنِۗ",
+        "teksIndonesia": "Maka adapun manusia, apabila Tuhan mengujinya lalu memuliakannya dan memberinya kesenangan, maka dia berkata, “Tuhanku telah memuliakanku.”",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/089015.mp3"
+        }
+      },
+      {
+        "nomorAyat": 16,
+        "teksArab": "وَاَمَّآ اِذَا مَا ابْتَلٰىهُ فَقَدَرَ عَلَيْهِ رِزْقَهٗ ەۙ فَيَقُوْلُ رَبِّيْٓ اَهَانَنِۚ",
+        "teksIndonesia": "Namun apabila Tuhan mengujinya lalu membatasi rezekinya, maka dia berkata, “Tuhanku telah menghinaku.”",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/089016.mp3"
+        }
+      },
+      {
+        "nomorAyat": 17,
+        "teksArab": "كَلَّا بَلْ لَّا تُكْرِمُوْنَ الْيَتِيْمَۙ",
+        "teksIndonesia": "Sekali-kali tidak! Bahkan kamu tidak memuliakan anak yatim,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/089017.mp3"
+        }
+      },
+      {
+        "nomorAyat": 18,
+        "teksArab": "وَلَا تَحٰۤضُّوْنَ عَلٰى طَعَامِ الْمِسْكِيْنِۙ",
+        "teksIndonesia": "dan kamu tidak saling mengajak memberi makan orang miskin,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/089018.mp3"
+        }
+      },
+      {
+        "nomorAyat": 19,
+        "teksArab": "وَتَأْكُلُوْنَ التُّرَاثَ اَكْلًا لَّمًّاۙ",
+        "teksIndonesia": "sedangkan kamu memakan harta warisan dengan cara mencampurbaurkan (yang halal dan yang haram),",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/089019.mp3"
+        }
+      },
+      {
+        "nomorAyat": 20,
+        "teksArab": "وَّتُحِبُّوْنَ الْمَالَ حُبًّا جَمًّاۗ",
+        "teksIndonesia": "dan kamu mencintai harta dengan kecintaan yang berlebihan.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/089020.mp3"
+        }
+      },
+      {
+        "nomorAyat": 21,
+        "teksArab": "كَلَّآ اِذَا دُكَّتِ الْاَرْضُ دَكًّا دَكًّاۙ",
+        "teksIndonesia": "Sekali-kali tidak! Apabila bumi diguncangkan berturut-turut (berbenturan),",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/089021.mp3"
+        }
+      },
+      {
+        "nomorAyat": 22,
+        "teksArab": "وَّجَاۤءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّاۚ",
+        "teksIndonesia": "dan datanglah Tuhanmu; dan malaikat berbaris-baris,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/089022.mp3"
+        }
+      },
+      {
+        "nomorAyat": 23,
+        "teksArab": "وَجِايْۤءَ يَوْمَىِٕذٍۢ بِجَهَنَّمَۙ يَوْمَىِٕذٍ يَّتَذَكَّرُ الْاِنْسَانُ وَاَنّٰى لَهُ الذِّكْرٰىۗ",
+        "teksIndonesia": "dan pada hari itu diperlihatkan neraka Jahanam; pada hari itu sadarlah manusia, tetapi tidak berguna lagi baginya kesadaran itu.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/089023.mp3"
+        }
+      },
+      {
+        "nomorAyat": 24,
+        "teksArab": "يَقُوْلُ يٰلَيْتَنِيْ قَدَّمْتُ لِحَيَاتِيْۚ",
+        "teksIndonesia": "Dia berkata, “Alangkah baiknya sekiranya dahulu aku mengerjakan (kebajikan) untuk hidupku ini.”",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/089024.mp3"
+        }
+      },
+      {
+        "nomorAyat": 25,
+        "teksArab": "فَيَوْمَىِٕذٍ لَّا يُعَذِّبُ عَذَابَهٗٓ اَحَدٌ ۙ",
+        "teksIndonesia": "Maka pada hari itu tidak ada seorang pun yang mengazab seperti azab-Nya (yang adil),",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/089025.mp3"
+        }
+      },
+      {
+        "nomorAyat": 26,
+        "teksArab": "وَّلَا يُوْثِقُ وَثَاقَهٗٓ اَحَدٌ ۗ",
+        "teksIndonesia": "dan tidak ada seorang pun yang mengikat seperti ikatan-Nya.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/089026.mp3"
+        }
+      },
+      {
+        "nomorAyat": 27,
+        "teksArab": "يٰٓاَيَّتُهَا النَّفْسُ الْمُطْمَىِٕنَّةُۙ",
+        "teksIndonesia": "Wahai jiwa yang tenang!",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/089027.mp3"
+        }
+      },
+      {
+        "nomorAyat": 28,
+        "teksArab": "ارْجِعِيْٓ اِلٰى رَبِّكِ رَاضِيَةً مَّرْضِيَّةً ۚ",
+        "teksIndonesia": "Kembalilah kepada Tuhanmu dengan hati yang rida dan diridai-Nya.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/089028.mp3"
+        }
+      },
+      {
+        "nomorAyat": 29,
+        "teksArab": "فَادْخُلِيْ فِيْ عِبٰدِيْۙ",
+        "teksIndonesia": "Maka masuklah ke dalam golongan hamba-hamba-Ku,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/089029.mp3"
+        }
+      },
+      {
+        "nomorAyat": 30,
+        "teksArab": "وَادْخُلِيْ جَنَّتِيْ ࣖࣖ",
+        "teksIndonesia": "dan masuklah ke dalam surga-Ku.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/089030.mp3"
+        }
+      }
+    ],
+    "suratSelanjutnya": {
+      "nomor": 90,
+      "nama": "البلد",
+      "namaLatin": "Al-Balad",
+      "jumlahAyat": 20
+    },
+    "suratSebelumnya": {
+      "nomor": 88,
+      "nama": "الغاشية",
+      "namaLatin": "Al-Gasyiyah",
+      "jumlahAyat": 26
+    }
+  }
+}

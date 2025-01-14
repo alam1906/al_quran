@@ -1,0 +1,91 @@
+{
+  "data": {
+    "nomor": 99,
+    "nama": "الزلزلة",
+    "namaLatin": "Az-Zalzalah",
+    "jumlahAyat": 8,
+    "tempatTurun": "Madinah",
+    "arti": "Guncangan",
+    "audioFull": {
+      "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/099.mp3"
+    },
+    "ayat": [
+      {
+        "nomorAyat": 1,
+        "teksArab": "اِذَا زُلْزِلَتِ الْاَرْضُ زِلْزَالَهَاۙ",
+        "teksIndonesia": "Apabila bumi diguncangkan dengan guncangan yang dahsyat,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/099001.mp3"
+        }
+      },
+      {
+        "nomorAyat": 2,
+        "teksArab": "وَاَخْرَجَتِ الْاَرْضُ اَثْقَالَهَاۙ",
+        "teksIndonesia": "dan bumi telah mengeluarkan beban-beban berat (yang dikandung)nya,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/099002.mp3"
+        }
+      },
+      {
+        "nomorAyat": 3,
+        "teksArab": "وَقَالَ الْاِنْسَانُ مَا لَهَاۚ",
+        "teksIndonesia": "Dan manusia bertanya, “Apa yang terjadi pada bumi ini?”",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/099003.mp3"
+        }
+      },
+      {
+        "nomorAyat": 4,
+        "teksArab": "يَوْمَىِٕذٍ تُحَدِّثُ اَخْبَارَهَاۙ",
+        "teksIndonesia": "Pada hari itu bumi menyampaikan beritanya,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/099004.mp3"
+        }
+      },
+      {
+        "nomorAyat": 5,
+        "teksArab": "بِاَنَّ رَبَّكَ اَوْحٰى لَهَاۗ",
+        "teksIndonesia": "karena sesungguhnya Tuhanmu telah memerintahkan (yang sedemikian itu) padanya.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/099005.mp3"
+        }
+      },
+      {
+        "nomorAyat": 6,
+        "teksArab": "يَوْمَىِٕذٍ يَّصْدُرُ النَّاسُ اَشْتَاتًا ەۙ لِّيُرَوْا اَعْمَالَهُمْۗ",
+        "teksIndonesia": "Pada hari itu manusia keluar dari kuburnya dalam keadaan berkelompok-kelompok, untuk diperlihatkan kepada mereka (balasan) semua perbuatannya.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/099006.mp3"
+        }
+      },
+      {
+        "nomorAyat": 7,
+        "teksArab": "فَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَّرَهٗۚ",
+        "teksIndonesia": "Maka barangsiapa mengerjakan kebaikan seberat zarrah, niscaya dia akan melihat (balasan)nya,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/099007.mp3"
+        }
+      },
+      {
+        "nomorAyat": 8,
+        "teksArab": "وَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَّرَهٗ ࣖ",
+        "teksIndonesia": "dan barangsiapa mengerjakan kejahatan seberat zarrah, niscaya dia akan melihat (balasan)nya.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/099008.mp3"
+        }
+      }
+    ],
+    "suratSelanjutnya": {
+      "nomor": 100,
+      "nama": "العٰديٰت",
+      "namaLatin": "Al-'Adiyat",
+      "jumlahAyat": 11
+    },
+    "suratSebelumnya": {
+      "nomor": 98,
+      "nama": "البيّنة",
+      "namaLatin": "Al-Bayyinah",
+      "jumlahAyat": 8
+    }
+  }
+}

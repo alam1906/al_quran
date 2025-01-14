@@ -1,0 +1,179 @@
+{
+  "data": {
+    "nomor": 96,
+    "nama": "العلق",
+    "namaLatin": "Al-'Alaq",
+    "jumlahAyat": 19,
+    "tempatTurun": "Mekah",
+    "arti": "Segumpal Darah",
+    "audioFull": {
+      "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/096.mp3"
+    },
+    "ayat": [
+      {
+        "nomorAyat": 1,
+        "teksArab": "اِقْرَأْ بِاسْمِ رَبِّكَ الَّذِيْ خَلَقَۚ",
+        "teksIndonesia": "Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/096001.mp3"
+        }
+      },
+      {
+        "nomorAyat": 2,
+        "teksArab": "خَلَقَ الْاِنْسَانَ مِنْ عَلَقٍۚ",
+        "teksIndonesia": "Dia telah menciptakan manusia dari segumpal darah.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/096002.mp3"
+        }
+      },
+      {
+        "nomorAyat": 3,
+        "teksArab": "اِقْرَأْ وَرَبُّكَ الْاَكْرَمُۙ",
+        "teksIndonesia": "Bacalah, dan Tuhanmulah Yang Mahamulia,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/096003.mp3"
+        }
+      },
+      {
+        "nomorAyat": 4,
+        "teksArab": "الَّذِيْ عَلَّمَ بِالْقَلَمِۙ",
+        "teksIndonesia": "Yang mengajar (manusia) dengan pena.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/096004.mp3"
+        }
+      },
+      {
+        "nomorAyat": 5,
+        "teksArab": "عَلَّمَ الْاِنْسَانَ مَا لَمْ يَعْلَمْۗ",
+        "teksIndonesia": "Dia mengajarkan manusia apa yang tidak diketahuinya.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/096005.mp3"
+        }
+      },
+      {
+        "nomorAyat": 6,
+        "teksArab": "كَلَّآ اِنَّ الْاِنْسَانَ لَيَطْغٰىٓ ۙ",
+        "teksIndonesia": "Sekali-kali tidak! Sungguh, manusia itu benar-benar melampaui batas,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/096006.mp3"
+        }
+      },
+      {
+        "nomorAyat": 7,
+        "teksArab": "اَنْ رَّاٰهُ اسْتَغْنٰىۗ",
+        "teksIndonesia": "apabila melihat dirinya serba cukup.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/096007.mp3"
+        }
+      },
+      {
+        "nomorAyat": 8,
+        "teksArab": "اِنَّ اِلٰى رَبِّكَ الرُّجْعٰىۗ",
+        "teksIndonesia": "Sungguh, hanya kepada Tuhanmulah tempat kembali(mu).",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/096008.mp3"
+        }
+      },
+      {
+        "nomorAyat": 9,
+        "teksArab": "اَرَاَيْتَ الَّذِيْ يَنْهٰىۙ",
+        "teksIndonesia": "Bagaimana pendapatmu tentang orang yang melarang?",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/096009.mp3"
+        }
+      },
+      {
+        "nomorAyat": 10,
+        "teksArab": "عَبْدًا اِذَا صَلّٰىۗ",
+        "teksIndonesia": "seorang hamba ketika dia melaksanakan salat,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/096010.mp3"
+        }
+      },
+      {
+        "nomorAyat": 11,
+        "teksArab": "اَرَاَيْتَ اِنْ كَانَ عَلَى الْهُدٰىٓۙ",
+        "teksIndonesia": "bagaimana pendapatmu jika dia (yang dilarang salat itu) berada di atas kebenaran (petunjuk),",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/096011.mp3"
+        }
+      },
+      {
+        "nomorAyat": 12,
+        "teksArab": "اَوْ اَمَرَ بِالتَّقْوٰىۗ",
+        "teksIndonesia": "atau dia menyuruh bertakwa (kepada Allah)?",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/096012.mp3"
+        }
+      },
+      {
+        "nomorAyat": 13,
+        "teksArab": "اَرَاَيْتَ اِنْ كَذَّبَ وَتَوَلّٰىۗ",
+        "teksIndonesia": "Bagaimana pendapatmu jika dia (yang melarang) itu mendustakan dan berpaling?",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/096013.mp3"
+        }
+      },
+      {
+        "nomorAyat": 14,
+        "teksArab": "اَلَمْ يَعْلَمْ بِاَنَّ اللّٰهَ يَرٰىۗ",
+        "teksIndonesia": "Tidakkah dia mengetahui bahwa sesungguhnya Allah melihat (segala perbuatannya)?",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/096014.mp3"
+        }
+      },
+      {
+        "nomorAyat": 15,
+        "teksArab": "كَلَّا لَىِٕنْ لَّمْ يَنْتَهِ ەۙ لَنَسْفَعًاۢ بِالنَّاصِيَةِۙ",
+        "teksIndonesia": "Sekali-kali tidak! Sungguh, jika dia tidak berhenti (berbuat demikian) niscaya Kami tarik ubun-ubunnya, (ke dalam neraka),",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/096015.mp3"
+        }
+      },
+      {
+        "nomorAyat": 16,
+        "teksArab": "نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍۚ",
+        "teksIndonesia": "yaitu) ubun-ubun orang yang mendustakan dan durhaka.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/096016.mp3"
+        }
+      },
+      {
+        "nomorAyat": 17,
+        "teksArab": "فَلْيَدْعُ نَادِيَهٗۙ",
+        "teksIndonesia": "Maka biarlah dia memanggil golongannya (untuk menolongnya),",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/096017.mp3"
+        }
+      },
+      {
+        "nomorAyat": 18,
+        "teksArab": "سَنَدْعُ الزَّبَانِيَةَۙ",
+        "teksIndonesia": "Kelak Kami akan memanggil Malaikat Zabaniyah, (penyiksa orang-orang yang berdosa), ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/096018.mp3"
+        }
+      },
+      {
+        "nomorAyat": 19,
+        "teksArab": "كَلَّاۗ  لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِبْ ۩ ࣖ",
+        "teksIndonesia": "sekali-kali tidak! Janganlah kamu patuh kepadanya; dan sujudlah serta dekatkanlah (dirimu kepada Allah).",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/096019.mp3"
+        }
+      }
+    ],
+    "suratSelanjutnya": {
+      "nomor": 97,
+      "nama": "القدر",
+      "namaLatin": "Al-Qadr",
+      "jumlahAyat": 5
+    },
+    "suratSebelumnya": {
+      "nomor": 95,
+      "nama": "التين",
+      "namaLatin": "At-Tin",
+      "jumlahAyat": 8
+    }
+  }
+}

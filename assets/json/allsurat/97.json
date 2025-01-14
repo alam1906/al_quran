@@ -1,0 +1,67 @@
+{
+  "data": {
+    "nomor": 97,
+    "nama": "القدر",
+    "namaLatin": "Al-Qadr",
+    "jumlahAyat": 5,
+    "tempatTurun": "Mekah",
+    "arti": "Kemuliaan",
+    "audioFull": {
+      "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/097.mp3"
+    },
+    "ayat": [
+      {
+        "nomorAyat": 1,
+        "teksArab": "اِنَّآ اَنْزَلْنٰهُ فِيْ لَيْلَةِ الْقَدْرِ ",
+        "teksIndonesia": "Sesungguhnya Kami telah menurunkannya (Al-Qur'an) pada malam qadar.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/097001.mp3"
+        }
+      },
+      {
+        "nomorAyat": 2,
+        "teksArab": "وَمَآ اَدْرٰىكَ مَا لَيْلَةُ الْقَدْرِۗ",
+        "teksIndonesia": "Dan tahukah kamu apakah malam kemuliaan itu?",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/097002.mp3"
+        }
+      },
+      {
+        "nomorAyat": 3,
+        "teksArab": "لَيْلَةُ الْقَدْرِ ەۙ خَيْرٌ مِّنْ اَلْفِ شَهْرٍۗ",
+        "teksIndonesia": "Malam kemuliaan itu lebih baik daripada seribu bulan.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/097003.mp3"
+        }
+      },
+      {
+        "nomorAyat": 4,
+        "teksArab": "تَنَزَّلُ الْمَلٰۤىِٕكَةُ وَالرُّوْحُ فِيْهَا بِاِذْنِ رَبِّهِمْۚ مِنْ كُلِّ اَمْرٍۛ",
+        "teksIndonesia": "Pada malam itu turun para malaikat dan Ruh (Jibril) dengan izin Tuhannya untuk mengatur semua urusan.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/097004.mp3"
+        }
+      },
+      {
+        "nomorAyat": 5,
+        "teksArab": "سَلٰمٌ ۛهِيَ حَتّٰى مَطْلَعِ الْفَجْرِ ࣖ",
+        "teksIndonesia": "Sejahteralah (malam itu) sampai terbit fajar.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/097005.mp3"
+        }
+      }
+    ],
+    "suratSelanjutnya": {
+      "nomor": 98,
+      "nama": "البيّنة",
+      "namaLatin": "Al-Bayyinah",
+      "jumlahAyat": 8
+    },
+    "suratSebelumnya": {
+      "nomor": 96,
+      "nama": "العلق",
+      "namaLatin": "Al-'Alaq",
+      "jumlahAyat": 19
+    }
+  }
+}

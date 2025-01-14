@@ -1,0 +1,227 @@
+{
+  "data": {
+    "nomor": 84,
+    "nama": "الانشقاق",
+    "namaLatin": "Al-Insyiqaq",
+    "jumlahAyat": 25,
+    "tempatTurun": "Mekah",
+    "arti": "Terbelah",
+    "audioFull": {
+      "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/084.mp3"
+    },
+    "ayat": [
+      {
+        "nomorAyat": 1,
+        "teksArab": "اِذَا السَّمَاۤءُ انْشَقَّتْۙ ",
+        "teksIndonesia": "Apabila langit terbelah,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/084001.mp3"
+        }
+      },
+      {
+        "nomorAyat": 2,
+        "teksArab": "وَاَذِنَتْ لِرَبِّهَا وَحُقَّتْۙ ",
+        "teksIndonesia": "dan patuh kepada Tuhannya, dan sudah semestinya patuh, ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/084002.mp3"
+        }
+      },
+      {
+        "nomorAyat": 3,
+        "teksArab": "وَاِذَا الْاَرْضُ مُدَّتْۙ ",
+        "teksIndonesia": "dan apabila bumi diratakan, ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/084003.mp3"
+        }
+      },
+      {
+        "nomorAyat": 4,
+        "teksArab": "وَاَلْقَتْ مَا فِيْهَا وَتَخَلَّتْۙ ",
+        "teksIndonesia": "dan memuntahkan apa yang ada di dalamnya dan menjadi kosong,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/084004.mp3"
+        }
+      },
+      {
+        "nomorAyat": 5,
+        "teksArab": "وَاَذِنَتْ لِرَبِّهَا وَحُقَّتْۗ ",
+        "teksIndonesia": "dan patuh kepada Tuhannya, dan sudah semestinya patuh.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/084005.mp3"
+        }
+      },
+      {
+        "nomorAyat": 6,
+        "teksArab": "يٰٓاَيُّهَا الْاِنْسَانُ اِنَّكَ كَادِحٌ اِلٰى رَبِّكَ كَدْحًا فَمُلٰقِيْهِۚ ",
+        "teksIndonesia": "Wahai manusia! Sesungguhnya kamu telah bekerja keras menuju Tuhanmu, maka kamu akan menemui-Nya.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/084006.mp3"
+        }
+      },
+      {
+        "nomorAyat": 7,
+        "teksArab": "فَاَمَّا مَنْ اُوْتِيَ كِتٰبَهٗ بِيَمِيْنِهٖۙ ",
+        "teksIndonesia": "Maka adapun orang yang catatannya diberikan dari sebelah kanannya, ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/084007.mp3"
+        }
+      },
+      {
+        "nomorAyat": 8,
+        "teksArab": "فَسَوْفَ يُحَاسَبُ حِسَابًا يَّسِيْرًاۙ ",
+        "teksIndonesia": "maka dia akan diperiksa dengan pemeriksaan yang mudah, ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/084008.mp3"
+        }
+      },
+      {
+        "nomorAyat": 9,
+        "teksArab": "وَّيَنْقَلِبُ اِلٰٓى اَهْلِهٖ مَسْرُوْرًاۗ ",
+        "teksIndonesia": "dan dia akan kembali kepada keluarganya (yang sama-sama beriman) dengan gembira.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/084009.mp3"
+        }
+      },
+      {
+        "nomorAyat": 10,
+        "teksArab": "وَاَمَّا مَنْ اُوْتِيَ كِتٰبَهٗ وَرَاۤءَ ظَهْرِهٖۙ ",
+        "teksIndonesia": "Dan adapun orang yang catatannya diberikan dari sebelah belakang, ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/084010.mp3"
+        }
+      },
+      {
+        "nomorAyat": 11,
+        "teksArab": "فَسَوْفَ يَدْعُوْا ثُبُوْرًاۙ ",
+        "teksIndonesia": "maka dia akan berteriak, “Celakalah aku!” ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/084011.mp3"
+        }
+      },
+      {
+        "nomorAyat": 12,
+        "teksArab": "وَّيَصْلٰى سَعِيْرًاۗ ",
+        "teksIndonesia": "Dan dia akan masuk ke dalam api yang menyala-nyala (neraka).",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/084012.mp3"
+        }
+      },
+      {
+        "nomorAyat": 13,
+        "teksArab": "اِنَّهٗ كَانَ فِيْٓ اَهْلِهٖ مَسْرُوْرًاۗ ",
+        "teksIndonesia": "Sungguh, dia dahulu (di dunia) bergembira di kalangan keluarganya (yang sama-sama kafir). ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/084013.mp3"
+        }
+      },
+      {
+        "nomorAyat": 14,
+        "teksArab": "اِنَّهٗ ظَنَّ اَنْ لَّنْ يَّحُوْرَ ۛ ",
+        "teksIndonesia": "Sesungguhnya dia mengira bahwa dia tidak akan kembali (kepada Tuhannya). ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/084014.mp3"
+        }
+      },
+      {
+        "nomorAyat": 15,
+        "teksArab": "بَلٰىۛ اِنَّ رَبَّهٗ كَانَ بِهٖ بَصِيْرًاۗ ",
+        "teksIndonesia": "Tidak demikian, sesungguhnya Tuhannya selalu melihatnya. ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/084015.mp3"
+        }
+      },
+      {
+        "nomorAyat": 16,
+        "teksArab": "فَلَآ اُقْسِمُ بِالشَّفَقِۙ ",
+        "teksIndonesia": "Maka Aku bersumpah demi cahaya merah pada waktu senja, ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/084016.mp3"
+        }
+      },
+      {
+        "nomorAyat": 17,
+        "teksArab": "وَالَّيْلِ وَمَا وَسَقَۙ ",
+        "teksIndonesia": "demi malam dan apa yang diselubunginya,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/084017.mp3"
+        }
+      },
+      {
+        "nomorAyat": 18,
+        "teksArab": "وَالْقَمَرِ اِذَا اتَّسَقَۙ ",
+        "teksIndonesia": "demi bulan apabila jadi purnama,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/084018.mp3"
+        }
+      },
+      {
+        "nomorAyat": 19,
+        "teksArab": "لَتَرْكَبُنَّ طَبَقًا عَنْ طَبَقٍۗ ",
+        "teksIndonesia": "sungguh, akan kamu jalani tingkat demi tingkat (dalam kehidupan).",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/084019.mp3"
+        }
+      },
+      {
+        "nomorAyat": 20,
+        "teksArab": "فَمَا لَهُمْ لَا يُؤْمِنُوْنَۙ ",
+        "teksIndonesia": "Maka mengapa mereka tidak mau beriman?",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/084020.mp3"
+        }
+      },
+      {
+        "nomorAyat": 21,
+        "teksArab": "وَاِذَا قُرِئَ عَلَيْهِمُ الْقُرْاٰنُ لَا يَسْجُدُوْنَ ۗ ۩ ",
+        "teksIndonesia": "Dan apabila Al-Qur'an dibacakan kepada mereka, mereka tidak (mau) bersujud,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/084021.mp3"
+        }
+      },
+      {
+        "nomorAyat": 22,
+        "teksArab": "بَلِ الَّذِيْنَ كَفَرُوْا يُكَذِّبُوْنَۖ ",
+        "teksIndonesia": "bahkan orang-orang kafir itu mendustakan(nya).",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/084022.mp3"
+        }
+      },
+      {
+        "nomorAyat": 23,
+        "teksArab": "وَاللّٰهُ اَعْلَمُ بِمَا يُوْعُوْنَۖ ",
+        "teksIndonesia": "Dan Allah lebih mengetahui apa yang mereka sembunyikan (dalam hati mereka).",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/084023.mp3"
+        }
+      },
+      {
+        "nomorAyat": 24,
+        "teksArab": "فَبَشِّرْهُمْ بِعَذَابٍ اَلِيْمٍۙ ",
+        "teksIndonesia": "Maka sampaikanlah kepada mereka (ancaman) azab yang pedih,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/084024.mp3"
+        }
+      },
+      {
+        "nomorAyat": 25,
+        "teksArab": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ لَهُمْ اَجْرٌ غَيْرُ مَمْنُوْنٍ ࣖ ",
+        "teksIndonesia": "kecuali orang-orang yang beriman dan mengerjakan kebajikan, mereka akan mendapat pahala yang tidak putus-putusnya.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/084025.mp3"
+        }
+      }
+    ],
+    "suratSelanjutnya": {
+      "nomor": 85,
+      "nama": "البروج",
+      "namaLatin": "Al-Buruj",
+      "jumlahAyat": 22
+    },
+    "suratSebelumnya": {
+      "nomor": 83,
+      "nama": "المطفّفين",
+      "namaLatin": "Al-Mutaffifin",
+      "jumlahAyat": 36
+    }
+  }
+}

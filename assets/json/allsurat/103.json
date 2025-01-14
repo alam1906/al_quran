@@ -1,0 +1,51 @@
+{
+  "data": {
+    "nomor": 103,
+    "nama": "العصر",
+    "namaLatin": "Al-'Asr",
+    "jumlahAyat": 3,
+    "tempatTurun": "Mekah",
+    "arti": "Masa",
+    "audioFull": {
+      "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/103.mp3"
+    },
+    "ayat": [
+      {
+        "nomorAyat": 1,
+        "teksArab": "وَالْعَصْرِۙ",
+        "teksIndonesia": "Demi masa,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/103001.mp3"
+        }
+      },
+      {
+        "nomorAyat": 2,
+        "teksArab": "اِنَّ الْاِنْسَانَ لَفِيْ خُسْرٍۙ",
+        "teksIndonesia": "sungguh, manusia berada dalam kerugian,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/103002.mp3"
+        }
+      },
+      {
+        "nomorAyat": 3,
+        "teksArab": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ وَتَوَاصَوْا بِالْحَقِّ ەۙ وَتَوَاصَوْا بِالصَّبْرِ ࣖ",
+        "teksIndonesia": "kecuali orang-orang yang beriman dan mengerjakan kebajikan serta saling menasihati untuk kebenaran dan saling menasihati untuk kesabaran.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/103003.mp3"
+        }
+      }
+    ],
+    "suratSelanjutnya": {
+      "nomor": 104,
+      "nama": "الهمزة",
+      "namaLatin": "Al-Humazah",
+      "jumlahAyat": 9
+    },
+    "suratSebelumnya": {
+      "nomor": 102,
+      "nama": "التكاثر",
+      "namaLatin": "At-Takasur",
+      "jumlahAyat": 8
+    }
+  }
+}

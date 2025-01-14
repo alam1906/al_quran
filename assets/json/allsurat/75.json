@@ -1,0 +1,347 @@
+{
+  "data": {
+    "nomor": 75,
+    "nama": "القيٰمة",
+    "namaLatin": "Al-Qiyamah",
+    "jumlahAyat": 40,
+    "tempatTurun": "Mekah",
+    "arti": "Hari Kiamat",
+    "audioFull": {
+      "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/075.mp3"
+    },
+    "ayat": [
+      {
+        "nomorAyat": 1,
+        "teksArab": "لَآ اُقْسِمُ بِيَوْمِ الْقِيٰمَةِۙ",
+        "teksIndonesia": "Aku bersumpah dengan hari Kiamat,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075001.mp3"
+        }
+      },
+      {
+        "nomorAyat": 2,
+        "teksArab": "وَلَآ اُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ ",
+        "teksIndonesia": "dan aku bersumpah demi jiwa yang selalu menyesali (dirinya sendiri).",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075002.mp3"
+        }
+      },
+      {
+        "nomorAyat": 3,
+        "teksArab": "اَيَحْسَبُ الْاِنْسَانُ اَلَّنْ نَّجْمَعَ عِظَامَهٗ ۗ",
+        "teksIndonesia": "Apakah manusia mengira bahwa Kami tidak akan mengumpulkan (kembali) tulang-belulangnya?",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075003.mp3"
+        }
+      },
+      {
+        "nomorAyat": 4,
+        "teksArab": "بَلٰى قٰدِرِيْنَ عَلٰٓى اَنْ نُّسَوِّيَ بَنَانَهٗ ",
+        "teksIndonesia": "(Bahkan) Kami mampu menyusun (kembali) jari-jemarinya dengan sempurna. ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075004.mp3"
+        }
+      },
+      {
+        "nomorAyat": 5,
+        "teksArab": "بَلْ يُرِيْدُ الْاِنْسَانُ لِيَفْجُرَ اَمَامَهٗۚ",
+        "teksIndonesia": "Tetapi manusia hendak membuat maksiat terus-menerus. ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075005.mp3"
+        }
+      },
+      {
+        "nomorAyat": 6,
+        "teksArab": "يَسْـَٔلُ اَيَّانَ يَوْمُ الْقِيٰمَةِۗ",
+        "teksIndonesia": "Dia bertanya, “Kapankah hari Kiamat itu?”",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075006.mp3"
+        }
+      },
+      {
+        "nomorAyat": 7,
+        "teksArab": "فَاِذَا بَرِقَ الْبَصَرُۙ",
+        "teksIndonesia": "Maka apabila mata terbelalak (ketakutan), ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075007.mp3"
+        }
+      },
+      {
+        "nomorAyat": 8,
+        "teksArab": "وَخَسَفَ الْقَمَرُۙ",
+        "teksIndonesia": "dan bulan pun telah hilang cahayanya,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075008.mp3"
+        }
+      },
+      {
+        "nomorAyat": 9,
+        "teksArab": "وَجُمِعَ الشَّمْسُ وَالْقَمَرُۙ",
+        "teksIndonesia": "lalu matahari dan bulan dikumpulkan, ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075009.mp3"
+        }
+      },
+      {
+        "nomorAyat": 10,
+        "teksArab": "يَقُوْلُ الْاِنْسَانُ يَوْمَىِٕذٍ اَيْنَ الْمَفَرُّۚ",
+        "teksIndonesia": "pada hari itu manusia berkata, “Ke mana tempat lari?”",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075010.mp3"
+        }
+      },
+      {
+        "nomorAyat": 11,
+        "teksArab": "كَلَّا لَا وَزَرَۗ",
+        "teksIndonesia": "Tidak! Tidak ada tempat berlindung!",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075011.mp3"
+        }
+      },
+      {
+        "nomorAyat": 12,
+        "teksArab": "اِلٰى رَبِّكَ يَوْمَىِٕذِ ِۨالْمُسْتَقَرُّۗ",
+        "teksIndonesia": "Hanya kepada Tuhanmu tempat kembali pada hari itu.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075012.mp3"
+        }
+      },
+      {
+        "nomorAyat": 13,
+        "teksArab": "يُنَبَّؤُا الْاِنْسَانُ يَوْمَىِٕذٍۢ بِمَا قَدَّمَ وَاَخَّرَۗ",
+        "teksIndonesia": "Pada hari itu diberitakan kepada manusia apa yang telah dikerjakannya dan apa yang dilalaikannya.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075013.mp3"
+        }
+      },
+      {
+        "nomorAyat": 14,
+        "teksArab": "بَلِ الْاِنْسَانُ عَلٰى نَفْسِهٖ بَصِيْرَةٌۙ",
+        "teksIndonesia": "Bahkan manusia menjadi saksi atas dirinya sendiri,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075014.mp3"
+        }
+      },
+      {
+        "nomorAyat": 15,
+        "teksArab": "وَّلَوْ اَلْقٰى مَعَاذِيْرَهٗۗ",
+        "teksIndonesia": "dan meskipun dia mengemukakan alasan-alasannya.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075015.mp3"
+        }
+      },
+      {
+        "nomorAyat": 16,
+        "teksArab": "لَا تُحَرِّكْ بِهٖ لِسَانَكَ لِتَعْجَلَ بِهٖۗ",
+        "teksIndonesia": "Jangan engkau (Muhammad) gerakkan lidahmu (untuk membaca Al-Qur'an) karena hendak cepat-cepat (menguasai)nya.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075016.mp3"
+        }
+      },
+      {
+        "nomorAyat": 17,
+        "teksArab": "اِنَّ عَلَيْنَا جَمْعَهٗ وَقُرْاٰنَهٗ ۚ",
+        "teksIndonesia": "Sesungguhnya Kami yang akan mengumpulkannya (di dadamu) dan membacakannya. ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075017.mp3"
+        }
+      },
+      {
+        "nomorAyat": 18,
+        "teksArab": "فَاِذَا قَرَأْنٰهُ فَاتَّبِعْ قُرْاٰنَهٗ ۚ",
+        "teksIndonesia": "Apabila Kami telah selesai membacakannya maka ikutilah bacaannya itu. ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075018.mp3"
+        }
+      },
+      {
+        "nomorAyat": 19,
+        "teksArab": "ثُمَّ اِنَّ عَلَيْنَا بَيَانَهٗ ۗ",
+        "teksIndonesia": "Kemudian sesungguhnya Kami yang akan menjelaskannya. ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075019.mp3"
+        }
+      },
+      {
+        "nomorAyat": 20,
+        "teksArab": "كَلَّا بَلْ تُحِبُّوْنَ الْعَاجِلَةَۙ",
+        "teksIndonesia": "Tidak! Bahkan kamu mencintai kehidupan dunia, ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075020.mp3"
+        }
+      },
+      {
+        "nomorAyat": 21,
+        "teksArab": "وَتَذَرُوْنَ الْاٰخِرَةَۗ",
+        "teksIndonesia": "dan mengabaikan (kehidupan) akhirat. ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075021.mp3"
+        }
+      },
+      {
+        "nomorAyat": 22,
+        "teksArab": "وُجُوْهٌ يَّوْمَىِٕذٍ نَّاضِرَةٌۙ",
+        "teksIndonesia": "Wajah-wajah (orang mukmin) pada hari itu berseri-seri,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075022.mp3"
+        }
+      },
+      {
+        "nomorAyat": 23,
+        "teksArab": "اِلٰى رَبِّهَا نَاظِرَةٌ ۚ",
+        "teksIndonesia": "memandang Tuhannya. ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075023.mp3"
+        }
+      },
+      {
+        "nomorAyat": 24,
+        "teksArab": "وَوُجُوْهٌ يَّوْمَىِٕذٍۢ بَاسِرَةٌۙ",
+        "teksIndonesia": "Dan wajah-wajah (orang kafir) pada hari itu muram, ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075024.mp3"
+        }
+      },
+      {
+        "nomorAyat": 25,
+        "teksArab": "تَظُنُّ اَنْ يُّفْعَلَ بِهَا فَاقِرَةٌ ۗ",
+        "teksIndonesia": "mereka yakin bahwa akan ditimpakan kepadanya malapetaka yang sangat dahsyat.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075025.mp3"
+        }
+      },
+      {
+        "nomorAyat": 26,
+        "teksArab": "كَلَّآ اِذَا بَلَغَتِ التَّرَاقِيَۙ",
+        "teksIndonesia": "Tidak! Apabila (nyawa) telah sampai ke kerongkongan,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075026.mp3"
+        }
+      },
+      {
+        "nomorAyat": 27,
+        "teksArab": "وَقِيْلَ مَنْ ۜرَاقٍۙ",
+        "teksIndonesia": "dan dikatakan (kepadanya), “Siapa yang dapat menyembuhkan?”",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075027.mp3"
+        }
+      },
+      {
+        "nomorAyat": 28,
+        "teksArab": "وَّظَنَّ اَنَّهُ الْفِرَاقُۙ",
+        "teksIndonesia": "Dan dia yakin bahwa itulah waktu perpisahan (dengan dunia), ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075028.mp3"
+        }
+      },
+      {
+        "nomorAyat": 29,
+        "teksArab": "وَالْتَفَّتِ السَّاقُ بِالسَّاقِۙ",
+        "teksIndonesia": "dan bertaut betis (kiri) dengan betis (kanan),",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075029.mp3"
+        }
+      },
+      {
+        "nomorAyat": 30,
+        "teksArab": "اِلٰى رَبِّكَ يَوْمَىِٕذِ ِۨالْمَسَاقُ ۗ ࣖ",
+        "teksIndonesia": "kepada Tuhanmulah pada hari itu kamu dihalau. ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075030.mp3"
+        }
+      },
+      {
+        "nomorAyat": 31,
+        "teksArab": "فَلَا صَدَّقَ وَلَا صَلّٰىۙ",
+        "teksIndonesia": "Karena dia (dahulu) tidak mau membenarkan (Al-Qur'an dan Rasul) dan tidak mau melaksanakan salat, ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075031.mp3"
+        }
+      },
+      {
+        "nomorAyat": 32,
+        "teksArab": "وَلٰكِنْ كَذَّبَ وَتَوَلّٰىۙ",
+        "teksIndonesia": "tetapi justru dia mendustakan (Rasul) dan berpaling (dari kebenaran), ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075032.mp3"
+        }
+      },
+      {
+        "nomorAyat": 33,
+        "teksArab": "ثُمَّ ذَهَبَ اِلٰٓى اَهْلِهٖ يَتَمَطّٰىۗ",
+        "teksIndonesia": "kemudian dia pergi kepada keluarganya dengan sombong.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075033.mp3"
+        }
+      },
+      {
+        "nomorAyat": 34,
+        "teksArab": "اَوْلٰى لَكَ فَاَوْلٰىۙ",
+        "teksIndonesia": "Celakalah kamu! Maka celakalah! ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075034.mp3"
+        }
+      },
+      {
+        "nomorAyat": 35,
+        "teksArab": "ثُمَّ اَوْلٰى لَكَ فَاَوْلٰىۗ",
+        "teksIndonesia": "Sekali lagi, celakalah kamu (manusia)! Maka celakalah! ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075035.mp3"
+        }
+      },
+      {
+        "nomorAyat": 36,
+        "teksArab": "اَيَحْسَبُ الْاِنْسَانُ اَنْ يُّتْرَكَ سُدًىۗ",
+        "teksIndonesia": "Apakah manusia mengira, dia akan dibiarkan begitu saja (tanpa pertanggungjawaban)?",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075036.mp3"
+        }
+      },
+      {
+        "nomorAyat": 37,
+        "teksArab": "اَلَمْ يَكُ نُطْفَةً مِّنْ مَّنِيٍّ يُّمْنٰى ",
+        "teksIndonesia": "Bukankah dia mulanya hanya setetes mani yang ditumpahkan (ke dalam rahim), ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075037.mp3"
+        }
+      },
+      {
+        "nomorAyat": 38,
+        "teksArab": "ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوّٰىۙ",
+        "teksIndonesia": "kemudian (mani itu) menjadi sesuatu yang melekat, lalu Allah menciptakannya dan menyempurnakannya, ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075038.mp3"
+        }
+      },
+      {
+        "nomorAyat": 39,
+        "teksArab": "فَجَعَلَ مِنْهُ الزَّوْجَيْنِ الذَّكَرَ وَالْاُنْثٰىۗ",
+        "teksIndonesia": "lalu Dia menjadikan darinya sepasang laki-laki dan perempuan. ",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075039.mp3"
+        }
+      },
+      {
+        "nomorAyat": 40,
+        "teksArab": "اَلَيْسَ ذٰلِكَ بِقٰدِرٍ عَلٰٓى اَنْ يُّحْيِ َۧ الْمَوْتٰى ࣖ",
+        "teksIndonesia": "Bukankah (Allah yang berbuat) demikian berkuasa (pula) menghidupkan orang mati?",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/075040.mp3"
+        }
+      }
+    ],
+    "suratSelanjutnya": {
+      "nomor": 76,
+      "nama": "الانسان",
+      "namaLatin": "Al-Insan",
+      "jumlahAyat": 31
+    },
+    "suratSebelumnya": {
+      "nomor": 74,
+      "nama": "المدّثّر",
+      "namaLatin": "Al-Muddassir",
+      "jumlahAyat": 56
+    }
+  }
+}

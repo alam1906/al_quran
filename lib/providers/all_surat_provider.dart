@@ -1,0 +1,14 @@
+import 'package:al_quran/models/surat_model.dart';
+import 'package:al_quran/controllers/surat_controller.dart';
+import 'package:riverpod_annotation/riverpod_annotation.dart';
+part 'all_surat_provider.g.dart';
+
+@Riverpod(keepAlive: true)
+class AllSurat extends _$AllSurat {
+  @override
+  Future<List<SuratModel>> build() async {
+    SuratController suratController = SuratController();
+    final data = await suratController.getAllSuratLokal();
+    return data;
+  }
+}

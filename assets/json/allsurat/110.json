@@ -1,0 +1,51 @@
+{
+  "data": {
+    "nomor": 110,
+    "nama": "النصر",
+    "namaLatin": "An-Nasr",
+    "jumlahAyat": 3,
+    "tempatTurun": "Madinah",
+    "arti": "Pertolongan",
+    "audioFull": {
+      "05": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/110.mp3"
+    },
+    "ayat": [
+      {
+        "nomorAyat": 1,
+        "teksArab": "اِذَا جَاۤءَ نَصْرُ اللّٰهِ وَالْفَتْحُۙ",
+        "teksIndonesia": "Apabila telah datang pertolongan Allah dan kemenangan,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/110001.mp3"
+        }
+      },
+      {
+        "nomorAyat": 2,
+        "teksArab": "وَرَاَيْتَ النَّاسَ يَدْخُلُوْنَ فِيْ دِيْنِ اللّٰهِ اَفْوَاجًاۙ",
+        "teksIndonesia": "dan engkau melihat manusia berbondong-bondong masuk agama Allah,",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/110002.mp3"
+        }
+      },
+      {
+        "nomorAyat": 3,
+        "teksArab": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُۗ اِنَّهٗ كَانَ تَوَّابًا ࣖ",
+        "teksIndonesia": "maka bertasbihlah dalam dengan Tuhanmu dan mohonlah ampunan kepada-Nya. Sungguh, Dia Maha Penerima tobat.",
+        "audio": {
+          "05": "https://equran.nos.wjv-1.neo.id/audio-partial/Misyari-Rasyid-Al-Afasi/110003.mp3"
+        }
+      }
+    ],
+    "suratSelanjutnya": {
+      "nomor": 111,
+      "nama": "اللهب",
+      "namaLatin": "Al-Lahab",
+      "jumlahAyat": 5
+    },
+    "suratSebelumnya": {
+      "nomor": 109,
+      "nama": "الكٰفرون",
+      "namaLatin": "Al-Kafirun",
+      "jumlahAyat": 6
+    }
+  }
+}
