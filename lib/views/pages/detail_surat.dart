@@ -154,26 +154,36 @@ class _BookmarkItemState extends ConsumerState<BookmarkItem> {
     final teksArab = widget.data.teksArab.split('');
     final resultIndonesia = teksIndonesia[0];
     final resultArab = teksArab[0];
-    final data = ref
-        .watch(bookmarkProvider.notifier)
-        .getByKey(key: "$resultIndonesia$resultArab");
+    final key = "$resultIndonesia$resultArab";
+    final data = ref.watch(bookmarkProvider.notifier).getByKey(key: key);
     bool isSelected = data?.isSelected ?? false;
     return GestureDetector(
       onTap: () async {
-        await ref
-            .read(bookmarkProvider.notifier)
-            .addData(ayatModel: widget.data);
-        ScaffoldMessenger.of(context).showSnackBar(
-          const SnackBar(
-            duration: Duration(milliseconds: 500),
-            content: Text("Berhasil menambahkan ke bookmark"),
-          ),
-        );
-        setState(() {});
+        if (isSelected == false) {
+          await ref
+              .read(bookmarkProvider.notifier)
+              .addData(ayatModel: widget.data);
+          ScaffoldMessenger.of(context).showSnackBar(
+            const SnackBar(
+              duration: Duration(milliseconds: 500),
+              content: Text("Berhasil menambahkan ke bookmark"),
+            ),
+          );
+          setState(() {});
+        } else {
+          await ref.read(bookmarkProvider.notifier).deleteByKey(key: key);
+          ScaffoldMessenger.of(context).showSnackBar(
+            const SnackBar(
+              duration: Duration(milliseconds: 500),
+              content: Text("Berhasil menghapus bookmark"),
+            ),
+          );
+          setState(() {});
+        }
       },
       child: Icon(
         isSelected ? Icons.bookmark : Icons.bookmark_outline,
-        color: Color(0xff682ebc),
+        color: const Color(0xff682ebc),
       ),
     );
   }

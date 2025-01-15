@@ -11,4 +11,27 @@ class AllSurat extends _$AllSurat {
     final data = await suratController.getAllSuratLokal();
     return data;
   }
+
+  searchController({required String text, bool isDelete = false}) async {
+    if (text.isEmpty) {
+      refreshData();
+      final data = state.value!
+          .where(
+              (e) => e.namaLatin.toLowerCase().startsWith(text.toLowerCase()))
+          .toList();
+      state = AsyncData(data);
+    } else {
+      final data = state.value!
+          .where(
+              (e) => e.namaLatin.toLowerCase().startsWith(text.toLowerCase()))
+          .toList();
+      state = AsyncData(data);
+    }
+  }
+
+  refreshData() async {
+    SuratController suratController = SuratController();
+    final data = await suratController.getAllSuratLokal();
+    state = AsyncData(data);
+  }
 }

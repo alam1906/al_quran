@@ -15,7 +15,6 @@ class Bookmark extends _$Bookmark {
         final result = await boxAyatModel.getAt(i);
         ayatModel.add(result);
       }
-
       return ayatModel;
     } else {
       return null;
@@ -58,6 +57,11 @@ class Bookmark extends _$Bookmark {
 
   delete({required int id}) async {
     boxAyatModel.deleteAt(id);
+    refreshData();
+  }
+
+  deleteByKey({required String key}) async {
+    boxAyatModel.delete(key);
     refreshData();
   }
 }

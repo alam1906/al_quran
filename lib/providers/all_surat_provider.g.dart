@@ -6,7 +6,7 @@ part of 'all_surat_provider.dart';
 // RiverpodGenerator
 // **************************************************************************
 
-String _$allSuratHash() => r'f0e923ff3c4e99a6e30caed92fb4f76e723abd9a';
+String _$allSuratHash() => r'991d4f9983af33c83dfbb5792b7d15d8d649cc51';
 
 /// See also [AllSurat].
 @ProviderFor(AllSurat)
