@@ -14,6 +14,7 @@ class _BookmarkPageState extends ConsumerState<BookmarkPage> {
   @override
   Widget build(BuildContext context) {
     final data = ref.watch(bookmarkProvider).valueOrNull;
+    final themeColor = Theme.of(context).colorScheme;
     if (data == null) {
       return const Center(
         child: Text("Tidak ada data"),
@@ -39,7 +40,7 @@ class _BookmarkPageState extends ConsumerState<BookmarkPage> {
                     height: 60,
                     decoration: BoxDecoration(
                       borderRadius: BorderRadius.circular(10),
-                      color: Colors.grey.shade200,
+                      color: themeColor.secondaryContainer,
                     ),
                     child: Row(
                       crossAxisAlignment: CrossAxisAlignment.center,
@@ -59,7 +60,7 @@ class _BookmarkPageState extends ConsumerState<BookmarkPage> {
                         const Spacer(),
                         const Share(),
                         PlayAudio(
-                          audioUrl: data[index].audio['05'],
+                          audioUrl: data[index].audio['05'] ?? '',
                         ),
                         Delete(fn: () {
                           ref.read(bookmarkProvider.notifier).delete(id: index);
@@ -76,18 +77,23 @@ class _BookmarkPageState extends ConsumerState<BookmarkPage> {
                   Text(
                     textAlign: TextAlign.end,
                     data[index].teksArab,
-                    style: const TextStyle(
-                      fontSize: 25,
+                    style: TextStyle(
+                      fontSize: 20,
                       fontWeight: FontWeight.bold,
+                      color: themeColor.secondary,
                     ),
                   ),
                   Text(
                     data[index].teksIndonesia,
-                    style: const TextStyle(
-                      fontSize: 18,
-                      fontWeight: FontWeight.w500,
+                    style: TextStyle(
+                      fontSize: 14,
+                      fontWeight: FontWeight.bold,
+                      color: themeColor.secondary,
                     ),
                   ),
+                  SizedBox(
+                    height: index + 1 == data.length ? 20 : 0,
+                  )
                 ],
               );
             },

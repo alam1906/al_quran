@@ -15,12 +15,10 @@ class AllSurat extends _$AllSurat {
   searchController({required String text, bool isDelete = false}) async {
     if (text.isEmpty) {
       refreshData();
-      final data = state.value!
-          .where(
-              (e) => e.namaLatin.toLowerCase().startsWith(text.toLowerCase()))
-          .toList();
-      state = AsyncData(data);
     } else {
+      SuratController suratController = SuratController();
+      final reset = await suratController.getAllSuratLokal();
+      state = AsyncData(reset);
       final data = state.value!
           .where(
               (e) => e.namaLatin.toLowerCase().startsWith(text.toLowerCase()))

@@ -19,6 +19,7 @@ class DetailSurat extends ConsumerWidget {
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final surat = ref.watch(detailSuratProvider(nomor)).valueOrNull;
+    ColorScheme themeColor = Theme.of(context).colorScheme;
     if (surat == null) {
       return Scaffold(
         body: Center(
@@ -39,14 +40,14 @@ class DetailSurat extends ConsumerWidget {
         child: CustomScrollView(
           slivers: [
             CustomAppbar(surat: surat),
-            _listAyat(surat),
+            _listAyat(surat, themeColor),
           ],
         ),
       ),
     );
   }
 
-  _listAyat(DetailSuratModel surat) {
+  _listAyat(DetailSuratModel surat, ColorScheme themeColor) {
     return SliverList.separated(
       itemCount: surat.ayat.length,
       itemBuilder: (context, index) {
@@ -61,7 +62,8 @@ class DetailSurat extends ConsumerWidget {
               height: 60,
               decoration: BoxDecoration(
                 borderRadius: BorderRadius.circular(10),
-                color: Colors.grey.shade200,
+                color: themeColor.secondaryContainer,
+                // color: themeColor.secondaryContainer,
               ),
               child: Row(
                 crossAxisAlignment: CrossAxisAlignment.center,
@@ -92,16 +94,18 @@ class DetailSurat extends ConsumerWidget {
             Text(
               textAlign: TextAlign.end,
               surat.ayat[index].teksArab,
-              style: const TextStyle(
-                fontSize: 25,
+              style: TextStyle(
+                fontSize: 20,
                 fontWeight: FontWeight.bold,
+                color: themeColor.secondary,
               ),
             ),
             Text(
               surat.ayat[index].teksIndonesia,
-              style: const TextStyle(
-                fontSize: 18,
-                fontWeight: FontWeight.w500,
+              style: TextStyle(
+                fontSize: 14,
+                fontWeight: FontWeight.bold,
+                color: themeColor.secondary,
               ),
             ),
             SizedBox(
@@ -291,6 +295,7 @@ class CustomAppbar extends StatelessWidget {
                 ),
               ),
               const Divider(
+                color: Colors.white,
                 indent: 100,
                 endIndent: 100,
               ),

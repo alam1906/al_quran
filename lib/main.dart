@@ -1,5 +1,8 @@
-import 'package:al_quran/box_ayat_model.dart';
+import 'package:al_quran/hive_data.dart';
 import 'package:al_quran/models/ayat_model.dart';
+import 'package:al_quran/providers/dark_model_provider.dart';
+import 'package:al_quran/theme/dark_mode.dart';
+import 'package:al_quran/theme/ligth_mode.dart';
 
 import 'package:al_quran/views/pages/splash_screen.dart';
 import 'package:flutter/material.dart';
@@ -15,23 +18,21 @@ Future<void> main() async {
   Hive.registerAdapter(AyatModelAdapter());
   boxAyatModel =
       await Hive.openBox<AyatModel>('ayatModel', path: appDocument.path);
-
+  boxIsDark = await Hive.openBox('isDark');
   runApp(const ProviderScope(child: MainApp()));
 }
 
-class MainApp extends StatelessWidget {
+class MainApp extends ConsumerWidget {
   const MainApp({super.key});
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context, WidgetRef ref) {
+    final data = ref.watch(darkModelProvider).valueOrNull;
+    if (data == null) {}
     return MaterialApp(
-      theme: ThemeData(
-        scaffoldBackgroundColor: Colors.white,
-        appBarTheme: const AppBarTheme(
-          color: Colors.white,
-          surfaceTintColor: Colors.transparent,
-        ),
-      ),
+      theme: lightMode,
+      darkTheme: darkMode,
+      themeMode: data == true ? ThemeMode.dark : ThemeMode.light,
       debugShowCheckedModeBanner: false,
       home: const SplashScreen(),
     );

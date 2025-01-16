@@ -1,4 +1,4 @@
-import 'package:al_quran/box_ayat_model.dart';
+import 'package:al_quran/hive_data.dart';
 import 'package:al_quran/models/ayat_model.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 

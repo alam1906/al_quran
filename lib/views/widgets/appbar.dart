@@ -1,6 +1,8 @@
+import 'dart:async';
+
 import 'package:al_quran/providers/all_surat_provider.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
+
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 class Appbar extends ConsumerStatefulWidget implements PreferredSizeWidget {
@@ -22,6 +24,11 @@ class _AppbarState extends ConsumerState<Appbar> {
   TextEditingController searcC = TextEditingController();
   bool isTap = false;
   bool isDelete = false;
+  @override
+  void dispose() {
+    searcC;
+    super.dispose();
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -30,9 +37,9 @@ class _AppbarState extends ConsumerState<Appbar> {
         onTap: () => widget.title == null ? null : Navigator.pop(context),
         child: GestureDetector(
           onTap: () {
-            setState(() {
-              isTap = !isTap;
-            });
+            widget.title == null
+                ? Scaffold.of(context).openDrawer()
+                : Navigator.pop(context);
           },
           child: Icon(
             widget.title == null ? Icons.menu : Icons.arrow_back,
@@ -56,30 +63,57 @@ class _AppbarState extends ConsumerState<Appbar> {
                 });
               },
               child: SizedBox(
-                child: Focus(
-                  onKeyEvent: (node, event) {
-                    if (event.logicalKey == LogicalKeyboardKey.backspace) {}
-                    return KeyEventResult.ignored;
-                  },
-                  child: TextField(
-                    onChanged: (value) async {
-                      await ref
-                          .read(allSuratProvider.notifier)
-                          .searchController(text: value);
-                      setState(() {});
-                    },
+                height: 35,
+                child: TextField(
+                  autofocus: true,
+                  cursorHeight: 20,
+                  textAlignVertical: TextAlignVertical.top,
+                  decoration: InputDecoration(
+                    fillColor: Colors.white,
+                    filled: true,
+                    border: OutlineInputBorder(
+                      borderRadius: BorderRadius.circular(20),
+                      borderSide: const BorderSide(
+                        color: Color(0xff682ebc),
+                      ),
+                    ),
+                    enabledBorder: OutlineInputBorder(
+                      borderRadius: BorderRadius.circular(20),
+                      borderSide: const BorderSide(
+                        color: Color(0xff682ebc),
+                      ),
+                    ),
                   ),
+                  onChanged: (value) async {
+                    Timer(
+                      const Duration(milliseconds: 500),
+                      () async {
+                        await ref
+                            .read(allSuratProvider.notifier)
+                            .searchController(text: value);
+                        setState(() {});
+                      },
+                    );
+                  },
                 ),
               )),
       actions: [
         GestureDetector(
-          onTap: () {
-            setState(() {
-              isTap = !isTap;
-            });
+          onTap: () async {
+            if (isTap == false) {
+              setState(() {
+                isTap = !isTap;
+              });
+            } else {
+              ref.read(allSuratProvider.notifier).refreshData();
+              setState(() {
+                isTap = !isTap;
+              });
+            }
           },
-          child: const Icon(
-            Icons.search,
+          child: Icon(
+            widget.title != null ? null : Icons.search,
+            color: Colors.grey.shade700,
           ),
         ),
         const SizedBox(width: 10),
