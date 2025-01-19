@@ -1,6 +1,13 @@
 import 'package:flutter/material.dart';
 
 ThemeData lightMode = ThemeData(
+  snackBarTheme: SnackBarThemeData(
+    backgroundColor: Colors.grey.shade200,
+    contentTextStyle: const TextStyle(
+      color: Colors.black,
+    ),
+  ),
+  // drawer
   drawerTheme: const DrawerThemeData(
     backgroundColor: Colors.white,
   ),

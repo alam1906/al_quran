@@ -1,5 +1,7 @@
 import 'package:al_quran/providers/all_surat_provider.dart';
 import 'package:al_quran/providers/dark_model_provider.dart';
+import 'package:al_quran/providers/last_read_provider.dart';
+import 'package:al_quran/providers/name_user_provider.dart';
 import 'package:al_quran/views/pages/bookmark.dart';
 import 'package:al_quran/views/pages/detail_surat.dart';
 import 'package:al_quran/views/widgets/appbar.dart';
@@ -91,12 +93,19 @@ class CustomDrawer extends ConsumerStatefulWidget {
 }
 
 class _CustomDrawerState extends ConsumerState<CustomDrawer> {
+  TextEditingController nameC = TextEditingController();
+  @override
+  void dispose() {
+    nameC;
+    super.dispose();
+  }
+
   @override
   Widget build(BuildContext context) {
     final data = ref.watch(darkModelProvider).valueOrNull;
+    final name = ref.watch(nameUserProvider);
     if (data == null) {
-      print(data);
-      return Drawer();
+      return const Drawer();
     }
 
     return Drawer(
@@ -106,24 +115,85 @@ class _CustomDrawerState extends ConsumerState<CustomDrawer> {
           crossAxisAlignment: CrossAxisAlignment.start,
           spacing: 40,
           children: [
-            Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
+            Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
-                const Text(
-                  "Assalamualaikum",
-                  style: TextStyle(
-                    fontSize: 16,
-                    color: Colors.grey,
-                  ),
+                Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    const Text(
+                      "Assalamualaikum",
+                      style: TextStyle(
+                        fontSize: 16,
+                        color: Colors.grey,
+                      ),
+                    ),
+                    Text(
+                      name,
+                      style: TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 22,
+                        color: Theme.of(context).colorScheme.secondary,
+                      ),
+                    ),
+                  ],
                 ),
-                Text(
-                  "Nur Alam",
-                  style: TextStyle(
-                    fontWeight: FontWeight.bold,
-                    fontSize: 20,
-                    color: Theme.of(context).colorScheme.secondary,
-                  ),
-                ),
+                GestureDetector(
+                    onTap: () {
+                      showDialog(
+                        context: context,
+                        builder: (context) {
+                          return Dialog(
+                              child: Container(
+                            padding: const EdgeInsets.symmetric(
+                                horizontal: 25, vertical: 15),
+                            height: 150,
+                            decoration: BoxDecoration(
+                              borderRadius: BorderRadius.circular(10),
+                              color: Colors.white,
+                            ),
+                            child: Column(
+                              mainAxisAlignment: MainAxisAlignment.center,
+                              spacing: 10,
+                              children: [
+                                // input
+                                TextField(
+                                  controller: nameC,
+                                  decoration: InputDecoration(
+                                    border: OutlineInputBorder(
+                                        borderRadius:
+                                            BorderRadius.circular(20)),
+                                  ),
+                                ),
+
+                                // submit
+                                ElevatedButton(
+                                  style: ButtonStyle(
+                                      backgroundColor: WidgetStatePropertyAll(
+                                          Theme.of(context)
+                                              .colorScheme
+                                              .primary)),
+                                  onPressed: () {
+                                    ref
+                                        .read(nameUserProvider.notifier)
+                                        .setName(name: nameC.text);
+                                    nameC.clear();
+                                    Navigator.pop(context);
+                                  },
+                                  child: const Text(
+                                    "Change Name",
+                                    style: TextStyle(
+                                      color: Colors.white,
+                                    ),
+                                  ),
+                                ),
+                              ],
+                            ),
+                          ));
+                        },
+                      );
+                    },
+                    child: const Icon(Icons.edit)),
               ],
             ),
             Row(
@@ -202,13 +272,20 @@ class HomePage extends StatelessWidget {
                             ],
                           ),
                           const SizedBox(height: 25),
-                          const Text(
-                            "Al-Fatihah",
-                            style: TextStyle(
-                              color: Colors.white,
-                              fontSize: 16,
-                              fontWeight: FontWeight.bold,
-                            ),
+                          Consumer(
+                            builder: (context, ref, child) {
+                              return ref.watch(lastReadProvider).when(
+                                  data: (data) => Text(
+                                        data,
+                                        style: const TextStyle(
+                                          color: Colors.white,
+                                          fontSize: 16,
+                                          fontWeight: FontWeight.bold,
+                                        ),
+                                      ),
+                                  error: (e, t) => Text(e.toString()),
+                                  loading: () => const SizedBox());
+                            },
                           ),
                           const SizedBox(height: 5),
                           const Text(
@@ -242,41 +319,6 @@ class HomePage extends StatelessWidget {
   }
 }
 
-class CustomAppbar extends StatelessWidget {
-  const CustomAppbar({
-    super.key,
-  });
-
-  @override
-  Widget build(BuildContext context) {
-    return SliverAppBar(
-      automaticallyImplyLeading: false,
-      expandedHeight: 100,
-      flexibleSpace: FlexibleSpaceBar(
-        background: Container(
-            decoration: BoxDecoration(
-              color: const Color(0xff682ebc).withAlpha(180),
-              gradient: const LinearGradient(colors: [
-                Color(0xff682ebc),
-                Colors.purple,
-              ]),
-              borderRadius: BorderRadius.circular(20),
-            ),
-            child: const Center(
-              child: Text(
-                "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
-                style: TextStyle(
-                  fontSize: 24,
-                  fontWeight: FontWeight.w900,
-                  color: Colors.white,
-                ),
-              ),
-            )),
-      ),
-    );
-  }
-}
-
 class ListSurat extends ConsumerWidget {
   const ListSurat({
     super.key,
@@ -286,6 +328,7 @@ class ListSurat extends ConsumerWidget {
   Widget build(BuildContext context, WidgetRef ref) {
     final ColorScheme themeColor = Theme.of(context).colorScheme;
     final data = ref.watch(allSuratProvider).valueOrNull;
+
     if (data == null) {
       return const SliverFillRemaining(
         child: Center(
@@ -307,14 +350,19 @@ class ListSurat extends ConsumerWidget {
       itemBuilder: (context, index) {
         final surat = data[index];
         return GestureDetector(
-          onTap: () => Navigator.push(
-            context,
-            MaterialPageRoute(
-              builder: (context) => DetailSurat(
-                nomor: surat.nomor,
+          onTap: () async {
+            ref
+                .read(lastReadProvider.notifier)
+                .refreshData(namaSurat: data[index].namaLatin);
+            Navigator.push(
+              context,
+              MaterialPageRoute(
+                builder: (context) => DetailSurat(
+                  nomor: surat.nomor,
+                ),
               ),
-            ),
-          ),
+            );
+          },
           child: ListTile(
             contentPadding: const EdgeInsets.all(2),
             leading: Stack(
@@ -384,50 +432,5 @@ class ListSurat extends ConsumerWidget {
         );
       },
     );
-  }
-}
-
-class Banner extends StatefulWidget {
-  const Banner({
-    super.key,
-  });
-
-  @override
-  State<Banner> createState() => _BannerState();
-}
-
-class _BannerState extends State<Banner> {
-  @override
-  Widget build(BuildContext context) {
-    return Container(
-      width: double.infinity,
-      height: 130,
-      decoration: BoxDecoration(
-        color: Colors.grey.shade300,
-        borderRadius: BorderRadius.circular(15),
-      ),
-      child: const Center(
-        child: Text(
-          "AL-QURAN",
-          style: TextStyle(
-            color: Colors.purple,
-          ),
-        ),
-      ),
-    );
-  }
-}
-
-class SpaceVertical extends StatelessWidget {
-  const SpaceVertical({
-    super.key,
-    required this.height,
-  });
-
-  final double height;
-
-  @override
-  Widget build(BuildContext context) {
-    return SizedBox(height: height);
   }
 }

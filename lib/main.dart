@@ -19,6 +19,8 @@ Future<void> main() async {
   boxAyatModel =
       await Hive.openBox<AyatModel>('ayatModel', path: appDocument.path);
   boxIsDark = await Hive.openBox('isDark');
+  boxName = await Hive.openBox('name');
+  boxlastRead = await Hive.openBox('lastRead');
   runApp(const ProviderScope(child: MainApp()));
 }
 
